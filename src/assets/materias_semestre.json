@@ -1,0 +1,16 @@
+[
+  {
+    "Semestre": "Quinto",
+    "Materias": [
+      "Adm Base de Datos",
+      "HCI",
+      "Fun. Ingeniría de Software",
+      "Fun. HCI",
+      "Desarrollo Web"
+    ]
+  },
+  {
+    "Semestre": "Sexto",
+    "Materias": ["Redes II"]
+  }
+]

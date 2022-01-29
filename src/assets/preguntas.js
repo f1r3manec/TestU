@@ -3092,7 +3092,7 @@ export const preguntasMaterias = [
     id: 386,
     pregunta: "La relación de agregación:",
     respuesta:
-      "Es un mecanismo para combinar clases similares de objetos en una sola clase más general",
+      "Implica una relación en la que la clase hijo puede existir independientemente de la clase padre.",
     materia: "FIS",
     bimestre: "Segundo",
   },
@@ -3112,6 +3112,798 @@ export const preguntasMaterias = [
     bimestre: "Segundo",
     url:
       "https://res.cloudinary.com/de6cygu00/image/upload/v1630106994/TestU/FIS11_wtt6x5.jpg",
+  },
+  {
+    id: 389,
+    pregunta:
+      "En un sistema de base de datos distribuidas, cuando los usuarios no son conscientes de en cuál servidor están almacenados físicamente los datos se habla de",
+    respuesta: "Transparencia de la ubicación",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 390,
+    pregunta:
+      "En sistemas de bases de datos distribuidas, la replicación consiste en",
+    respuesta:
+      "Mantener una copia íntegra de una o más tablas en múltiples bases de datos que forman un sistema de base de datos distribuidos.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 391,
+    pregunta:
+      "La heterogeneidad en bases de datos distribuidas se da cuando no todos los nodos",
+    respuesta: "Poseen SGBD distintos.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 392,
+    pregunta: "En una base de datos distribuida",
+    respuesta: "pueden haber nodos que no almacenen datos localmente",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 393,
+    pregunta:
+      "¿Cuál de las siguientes afirmaciones respecto a bases de datos distribuida es cierta?",
+    respuesta:
+      "Para el almacenamiento de los datos se puede aplicar fragmentación, replicación o ambos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+
+  {
+    id: 394,
+    pregunta:
+      "En un esquema de base de datos distribuida, aquellas tablas que corresponden a catálogos, tal como PAISES, ESTADOS_CIVILES, TIPOS_ CLIENTE , etc., se las debería",
+    respuesta: "replicar",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 395,
+    pregunta:
+      "¿Cuál de las siguientes afirmaciones NO es cierta respecto a los sistemas de bases de datos distribuidas?",
+    respuesta: "No existe autonomía local de los nodos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 396,
+    pregunta:
+      "Suponga las siguientes tablas: BODEGAS (id_bodega, administrador, ciudad, direccion, telefono) ARTICULOS (id_articulo, nombre, peso, precio, cantidad, id_bodega) En un entorno de base de datos distribuida se decide que la distribución (fragmentación) geográfica de los datos se hará de acuerdo a la CIUDAD. En este caso, ¿que tipo de fragmentación es la que se deberá aplicar a la tabla ARTICULOS",
+    respuesta:
+      "Se debe aplicar fragmentación horizontal, debido a que se separan las filas de datos de acuerdo a la ciudad a la que pertenezca la bodega en la cual están los artículos.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 397,
+    pregunta:
+      "Para la tabla STAFF, cuál sería la forma correcta de aplicar una fragmentación horizontal, basada en el atributo Position (recuerde las operaciones de algebra relacional: π->Proyección, σ -> Selección)",
+    respuesta: "",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 398,
+    pregunta:
+      "En una base de datos distribuida, cuando un usuario consulta los datos de una tabla fragmentada, debe especificar en la cláusula FROM de la sentencia SELECT:",
+    respuesta:
+      "Simplemente el nombre de la tabla, tal como lo haría en una base de datos no distribuida",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 399,
+    pregunta: "Una base de datos textual se aplica sobre documentos de tipo:",
+    respuesta: "PDF",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 400,
+    pregunta: "En una base de datos textual el proceso de análisis elimina",
+    respuesta:
+      "Palabras comunes denominadas stopwords. Este tipo de palabras se eliminan para reducir el número de palabras clave y solamente dejar aquellas más relevantes para una colección de documentos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 401,
+    pregunta:
+      "En una base de datos multimedia, a parte del título que otra información puede ser relevante para la búsqueda",
+    respuesta: "descripción",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 402,
+    pregunta:
+      "En una base de datos multimedia se puede encontrar un objeto específico gracias a su",
+    respuesta: "La indexación",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 403,
+    pregunta: "En una base de datos SIG se maneja también una",
+    respuesta:
+      " Una base de datos relacional debido a que se requiere almacenar datos tabulares que representan características del elemento gráficamente representado",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 404,
+    pregunta: "Una base de datos SIG contiene",
+    respuesta:
+      "Una capa de datos que sirve para almacenar los datos acerca de las representaciones gráficas de elementos que son de interés del usuario. Una capa de negocio tiene más sentido en un sistema de base de datos transaccional y una capa de ubicación no tiene sentido en el contexto de las bases de datos SIG",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 405,
+    pregunta: "Una base de datos científica contiene",
+    respuesta:
+      "Muchas de las bases de datos científicas contienen a más de la información de los documentos el texto completo en formato PDF.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 406,
+    pregunta:
+      "En una base de datos científica una de las funcionalidades más potentes es:",
+    respuesta:
+      "La búsqueda avanzada que permite explotar todo el contenido de la base de datos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 407,
+    pregunta: "Una base de datos científica es muy útil cuando",
+    respuesta:
+      "Informarse sobre todo lo que se ha publicado sobre un campo de investigación",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 408,
+    pregunta:
+      "Al conjunto de estrategias y herramientas enfocadas a la administración y creación de conocimiento mediante el análisis de datos en una organización o empresa se denomina:",
+    respuesta:
+      "Todas las anteriores debido a que una base de datos multimedia permite almacenar imágenes, videoclips, clips de audio y documentos.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 409,
+    pregunta:
+      "En un almacén de datos la extracción de los datos desde las fuentes origen, su transformación y limpieza, están a cargo del:",
+    respuesta:
+      "gestor de almacenamiento --Está a cargo de las herramientas ETL quienes se encargan entre otras actividades de captar, filtrar, integrar y agregar datos operacionales que reposan en el almacén de datos para apoyar la toma de decisiones.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 410,
+    pregunta:
+      "Los sistemas a través de los cuales se registran las operaciones diarias de una organización se denominan:",
+    respuesta:
+      " --Los sistemas transaccionales --son aquellos que apoyan la gestión diaria de la organización a través de las transacciones que se ejecutan en el día a día",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 411,
+    pregunta:
+      "La exploración de los datos históricos en búsqueda de patrones ocultos se logra mediante",
+    respuesta: "Minería de datos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 412,
+    pregunta:
+      "Al tipo de aplicación de la minería de datos en el cuál se exploran los datos buscando identificar entidades vinculadas entre s í  con base en el descubrimiento de relaciones entre sus atributos, se denomina:",
+    respuesta:
+      " Asociación --Asociación que determina cosas u objetos que van juntos. La predicción predice un valor futuro en base a valores pasados. La clasificación asigna una clase o categoría en base a las características de un nuevo objeto",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 413,
+    pregunta:
+      "OLTP se refiere a los tipos de sistemas en los cuales la operación principal es la:",
+    respuesta:
+      "actualización de datos --Los sistemas OLTP se centran en el registro de transacciones que soportan las operaciones diarias de una organización",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 414,
+    pregunta:
+      "En un modelo multidimensional tipo estrella a las perspectivas desde las cuales se pueden analizar ciertos indicadores, se las denomina",
+    respuesta:
+      "Dimensiones --Se las llama dimensiones y proporcionan descripciones a los hechos de forma que adquieran un contexto. Ejemplos de dimensiones pueden ser la fecha, sucursal, marca de un producto, etc",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 415,
+    pregunta:
+      "Al diseñar un Data Warehouse bajo un esquema estrella (cubo) el tipo de relación existente entre una tabla de dimensión y la tabla de hechos es:",
+    respuesta:
+      "De uno a muchos (1:N) debido a que una dimensión se relaciona con muchos hechos.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 416,
+    pregunta:
+      "En materia de diseño de bases de datos se habla de modelo multidimensional y modelo entidad-relación, estos dos modelos se utilizan:",
+    respuesta:
+      " El modelo multidimensional para almacenes de datos en donde se requiere analizar la información desde distintas dimensiones y el modelo entidad-relación para bases de datos transaccionales en donde se requiere agilidad para las actualizaciones en base de datos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 417,
+    pregunta:
+      "Un Data Warehouse puede permitir integrar datos provenientes de:",
+    respuesta: "múltiples fuentes de datos heterogéneas",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 418,
+    pregunta:
+      "Al conjunto de estrategias y herramientas enfocadas a la administración y creación de conocimiento mediante el análisis de datos en una organización o empresa se denomina",
+    respuesta:
+      "La inteligencia de negocios -- combina herramientas, procesos y tecnología para estudiar los datos de una organización con el objetivo de encontrar información relevante que se la pueda convertir en conocimiento la cual sirva para apoyar la toma de decisiones",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 419,
+    pregunta: "Conocimiento es sinónimo de",
+    respuesta:
+      "Ninguna de las anteriores, pues el conocimiento incluye datos e información.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 420,
+    pregunta:
+      "Cuál de los siguientes ejemplos no se considera un esquema de representación?",
+    respuesta: "CRUD",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 421,
+    pregunta: "Un modo de representación del conocimiento es",
+    respuesta: "Las tripletas compuestas por Objeto-Atributo-Valor.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 422,
+    pregunta: "Una URI es:",
+    respuesta: "Es un identificador único para recursos en la Web ",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 423,
+    pregunta:
+      "Las redes semánticas se componen de los siguientes elementos para representar el conocimiento:",
+    respuesta:
+      "Nodos y enlaces que muestran relaciones entre objetos y de esa forma representar el conocimiento",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 424,
+    pregunta: "Dos métodos para la representación del conocimiento son",
+    respuesta:
+      "Especialización y generalización --La especialización entendida como el proceso de clasificar una clase de objetos en subclases más especializadas y la generalización se convierte en el proceso inverso, es decir generalizar varias clases en una clase abstracta de nivel superio",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 425,
+    pregunta: "Una ontología es:",
+    respuesta:
+      "Un vocabulario controlado y consensuado para representar el conocimiento ",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 426,
+    pregunta: "La recuperación de información se podría definir como:",
+    respuesta:
+      "Satisfacer las necesidades de información de usuarios desde grandes cantidades de información",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 427,
+    pregunta: "Una librería digital se define como",
+    respuesta:
+      "Colecciones de información a los que se puede acceder desde cualquier ubicación geográfica.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 428,
+    pregunta: "Una librería digital se define como",
+    respuesta:
+      "Todas las anteriores, debido a que la biblioteca digital maneja sus recursos en formato electrónico/digital y la biblioteca tradicional mantiene sus recursos en formato físico/impreso.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 429,
+    pregunta:
+      "En un sistema de base de datos distribuida, la distribución está: ",
+    respuesta: "En los datos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 430,
+    pregunta:
+      "A qué se refiere la transparencia del desempeño en un sistema de base de datos distribuida?",
+    respuesta:
+      "A que en lo posible no debería haber una degradación en los tiempos de respuesta cuando se accede a los datos.",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 431,
+    pregunta:
+      "Una de las ventajas de una base de datos distribuida es la mayor disponibilidad, esto debido a que",
+    respuesta:
+      " normalmente cuando falla un nodo, el sistema sigue operando con el resto de los nodos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 432,
+    pregunta:
+      "El esquema de distribución de los datos en el que se divide una tabla en varias partes se denomina:",
+    respuesta: "Fragmentación",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 433,
+    pregunta:
+      "¿A que norma de la calidad de fragmentación nos referimos cuando decimos que los datos no clave de un fragmento no deben repetirse en otro? ",
+    respuesta: "Disyunción",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 434,
+    pregunta:
+      "En una base de datos distribuida, cuando una tabla se particiona de manera que en cada nodo se almacenan solo ciertos campos de la tabla, estamos hablando de: ",
+    respuesta: " Fragmentación vertical",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 435,
+    pregunta:
+      "Una base de datos transaccional es también considerada como base de datos de propósito especial.",
+    respuesta: "Falso",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 436,
+    pregunta:
+      "Un Almacén de Datos puede ser considerada como una base de datos de propósito especial del tipo:",
+    respuesta: "temporal",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 437,
+    pregunta:
+      "¿Cuál de las siguientes si puede ser considerada como una base de datos textual? ",
+    respuesta: " La base de datos para búsquedas web de Google ",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 438,
+    pregunta:
+      "A los repositorios de datos que utilizan los sistemas de apoyo a las decisiones y los sistemas de apoyo a ejecutivos se los conoce como",
+    respuesta: " Almacenes de datos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 439,
+    pregunta:
+      "Uno de los principales factores que inciden en la urgente necesidad que tienen los gerentes de analizar los datos es:",
+    respuesta: " La creciente presión competitiva",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 440,
+    pregunta:
+      "Al proceso de transformar datos en información, información en conocimiento y conocimiento en sabiduría se conoce como: ",
+    respuesta: "Inteligencia de negocios",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 441,
+    pregunta:
+      "Se dice que la inteligencia de negocios ayuda a retener y atraer más clientes, ¿Por qué?",
+    respuesta:
+      " Porque provee indicadores que identifican gustos, patrones de consumo, entre otros",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 442,
+    pregunta:
+      "El análisis de datos que se realiza mediante características extendidas de SQL y sobre datos resumidos de un almacén de datos se denomina: ",
+    respuesta: " Análisis OLAP",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 443,
+    pregunta:
+      "El procesamiento analítico en línea (OLAP) le permite al gerente evaluar el comportamiento de un indicador desde múltiples perspectivas",
+    respuesta: "Verdadero",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 444,
+    pregunta: "Las herramientas OLAP están destinadas para ser usadas por: ",
+    respuesta: "Análisis multidimensional ",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 445,
+    pregunta:
+      "El tipo de análisis que permiten realizar las herramientas OLAP se denomina: ",
+    respuesta: "Análisis Olap",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 446,
+    pregunta:
+      "Cuando queremos extraer conocimiento desde una base de datos debemos aplicar técnicas de: ",
+    respuesta: " Minería de datos",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 447,
+    pregunta:
+      "Cuando al realizar minería de datos deseamos identificar grupos de elementos con características o comportamientos comunes, ¿qué tipo de técnica de minería de datos se debe aplicar? ",
+    respuesta: "Clustering",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 448,
+    pregunta: "La gestión del conocimiento tiene como finalidad",
+    respuesta:
+      "Capturar e indexar todo el conocimiento que subyace en una organización",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 449,
+    pregunta: "Las técnicas de representación del conocimiento ayudan a",
+    respuesta:
+      "Incorporar mayor semántica en la descripción de los recursos de información",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 450,
+    pregunta:
+      "Aquel conocimiento que permite resolver problemas complejos se denomina:",
+    respuesta: "Heurístico",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 460,
+    pregunta:
+      "RDF es un modelo de intercambio de datos que se usa cuando aplicamos latécnica de representación:",
+    respuesta: "Tripleta Objeto-Atributo-Valor",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 461,
+    pregunta:
+      "Un buscador web es en sí un sistema de recuperación de información",
+    respuesta: "Verdadero",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 462,
+    pregunta: "Un ejemplo de sistema de recuperación de información es:",
+    respuesta:
+      "El motor de búsqueda de nuestro computador que nos permite encontrar documentos almacenados en disco",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 463,
+    pregunta:
+      "Un sistema de recuperación de información debe solo está dirigido a usuarios expertos con formación tecnológica",
+    respuesta: "Falso",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 464,
+    pregunta:
+      "En una biblioteca digital, para cada recurso que se digitaliza no se puede dejar de obtener",
+    respuesta: "los metadatos del recurso",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 465,
+    pregunta:
+      "Uno de los principales beneficios de los repositorios digitales institucionales, es:",
+    respuesta:
+      "Facilitan la transferencia del conocimiento dentro de la comunidad",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+  {
+    id: 466,
+    pregunta: "Una biblioteca digital puede ser definida como:",
+    respuesta: "Una biblioteca tradicional adaptada a la era digital",
+    materia: "ADMBDD",
+    bimestre: "Segundo",
+  },
+
+  {
+    id: 467,
+    pregunta: "El modelo de contexto:",
+    respuesta:
+      "Se utilizan para ilustrar el contexto operativo de un sistema: muestran lo que se encuentra fuera de los límites del sistema",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 468,
+    pregunta: "Evaluar un diseño arquitectónico implica:",
+    respuesta: "",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 469,
+    pregunta: "La verificación:",
+    respuesta:
+      "Sirve para determinar si el producto se construyó correctamente",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 470,
+    pregunta: "La descripción o especificación de un caso de uso ayuda a:",
+    respuesta: "",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 471,
+    pregunta: "Un patrón de diseño:",
+    respuesta:
+      "Es una forma de reutilizar el conocimiento abstracto sobre un problema y su solución",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 472,
+    pregunta: "El modelo de objetos de análisis",
+    respuesta:
+      "Muestra los conceptos individuales que son manipulados por el sistema incluyendo las relaciones entre objetos.",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 473,
+    pregunta: "Las decisiones en el diseño arquitectónico se derivan de:",
+    respuesta: "Requerimientos no funcionales",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 474,
+    pregunta:
+      "La descomposición de un sistema en partes más pequeñas se denomina:",
+    respuesta: "Subsistema",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 475,
+    pregunta: "Una vista de arquitectura de software es ...",
+    respuesta:
+      "una representación de una estructura encontrada en un sistema de software.",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 476,
+    pregunta: "El modelo de objetos de análisis comprende:",
+    respuesta: "Diagramas de clases y objetos",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 477,
+    pregunta:
+      "¿En cuál de los siguientes componentes se implementan los requerimientos funcionales?",
+    respuesta: "Componentes individuales",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 478,
+    pregunta: "Las vistas del modelo 4+1 son:",
+    respuesta: "Lógica, procesos, desarrollo, física, escenarios",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: 479,
+    pregunta: "El modelo dinámico",
+    respuesta:
+      "Muestra las interacciones entre un grupo de objetos durante una ejecución particular de casos de uso",
+    materia: "FIS",
+    bimestre: "Segundo",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
   },
   {
     id: "",

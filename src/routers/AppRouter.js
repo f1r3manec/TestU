@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { AdmBDD } from "../components/pages/AdmBDD";
 import FundamentosIngenieria from "../components/pages/FundamentosIngenieria";
 import HCI from "../components/pages/HCI";
 import Home from "../components/pages/Home";
@@ -15,6 +16,7 @@ const AppRouter = () => {
           <Route exatct path="/HCI" component={HCI} />
           <Route exact path="/FISotware" component={FundamentosIngenieria} />
           <Route exact path="/RedesII" component={RedesII} />
+          <Route exact path="/ADMBDD" component={AdmBDD} />
           <Route path="/" component={Home} />
         </Switch>
       </div>

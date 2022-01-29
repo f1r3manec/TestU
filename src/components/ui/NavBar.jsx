@@ -13,6 +13,7 @@ const NavBar = () => {
           <NavLink className="navbar-item" to="/">
             Home
           </NavLink>
+
           <NavLink className="navbar-item" to="/HCI">
             HCI
           </NavLink>
@@ -21,6 +22,9 @@ const NavBar = () => {
           </NavLink>
           <NavLink className="navbar-item" to="/RedesII">
             Redes II
+          </NavLink>
+          <NavLink className="navbar-item" to="/ADMBDD">
+            Adm. BDD
           </NavLink>
         </div>
         <div className="navbar-menu ">
