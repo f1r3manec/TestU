@@ -2950,7 +2950,7 @@ export const preguntasMaterias = [
     id: 368,
     pregunta:
       "Los arquitectos se centran principalmente en diseñar cualquier estructura que les proporcione la mayor influencia para lograr ...",
-    respuesta: "",
+    respuesta: "Los requisitos de atributos de calidad",
     materia: "FIS",
     bimestre: "Segundo",
   },
@@ -2971,7 +2971,7 @@ export const preguntasMaterias = [
   {
     id: 371,
     pregunta: "En enfoque en capas:",
-    respuesta: "",
+    respuesta: "Soporta el desarrollo incremental de sistemas.",
     materia: "FIS",
     bimestre: "Segundo",
   },
@@ -3691,7 +3691,8 @@ export const preguntasMaterias = [
   {
     id: 468,
     pregunta: "Evaluar un diseño arquitectónico implica:",
-    respuesta: "",
+    respuesta:
+      "Conocer que tan bien un sistema cubre con los requerimientos funcionales y no funcionales cuando está en uso.",
     materia: "FIS",
     bimestre: "Segundo",
   },
@@ -3706,7 +3707,7 @@ export const preguntasMaterias = [
   {
     id: 470,
     pregunta: "La descripción o especificación de un caso de uso ayuda a:",
-    respuesta: "",
+    respuesta: "Identificar los objetos y operaciones del sistema",
     materia: "FIS",
     bimestre: "Segundo",
   },
