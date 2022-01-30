@@ -26,6 +26,9 @@ const NavBar = () => {
           <NavLink className="navbar-item" to="/ADMBDD">
             Adm. BDD
           </NavLink>
+          <NavLink className="navbar-item" to="/DesWeb">
+            Desarrollo Web
+          </NavLink>
         </div>
         <div className="navbar-menu ">
           <div className="navbar-start"></div>

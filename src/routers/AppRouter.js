@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { AdmBDD } from "../components/pages/AdmBDD";
+import DesarrolloWeb from "../components/pages/DesarrolloWeb";
 import FundamentosIngenieria from "../components/pages/FundamentosIngenieria";
 import HCI from "../components/pages/HCI";
 import Home from "../components/pages/Home";
@@ -17,6 +18,7 @@ const AppRouter = () => {
           <Route exact path="/FISotware" component={FundamentosIngenieria} />
           <Route exact path="/RedesII" component={RedesII} />
           <Route exact path="/ADMBDD" component={AdmBDD} />
+          <Route exact path="/DesWeb" component={DesarrolloWeb} />
           <Route path="/" component={Home} />
         </Switch>
       </div>
