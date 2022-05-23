@@ -544,6 +544,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-La elección de los modelos tiene una profunda influencia en el acometimiento del problema y en cómo se da forma a la solución. 2.-Los modelos se pueden representar en distintos niveles de detalle, los analistas se suelen centrar en el qué, mientras que los diseñadores en el cómo.",
     bimestre: "Primer",
+    materia: "HCI",
   },
   {
     id: 69,
@@ -3780,150 +3781,485 @@ export const preguntasMaterias = [
     bimestre: "Segundo",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 480,
+    pregunta:
+      "Los requisitos de negocio se los describe en el documento de visión y alcance.",
+    respuesta: "Falso",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 481,
+    pregunta: "La ingeniería de requisitos en esencia consiste en:",
+    respuesta: "Especificar requisitos de software",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 482,
+    pregunta: `Se puede decir que un requisito es "claro", cuándo proporciona la información
+    suficiente para su comprensión.`,
+    respuesta: "FALSO",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 483,
+    pregunta: `En la etapa de "obtención", se negocian las prioridades de implementación del
+    producto.`,
+    respuesta: "Falso",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 484,
+    pregunta:
+      "Al individuo de que actúa como enlace entre el equipo de software y el administrador del negocio, se lo conoce como:",
+    respuesta: "Gerente",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 485,
+    pregunta: `En el proyecto se ha determinado que el riesgo "Falta de involucramiento del
+    usuario", está entre 26% y 74% de probabilidad que pueda ocurrir, entonces el
+    riesgo esta en un rango bajo`,
+    respuesta: "Falso",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 486,
+    pregunta: `Cuando en un riesgo existe la probabilidad de que ocurra es baja y su impacto
+    también es bajo, entonces se puede decir que es un riesgo "insignificante".`,
+    respuesta: "Verdadero",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 487,
+    pregunta: `En el visionamiento el "Cliente objetivo", se refiere a :`,
+    respuesta: "Las personas que usarán o comprarán el software",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 488,
+    pregunta: `Cuando el analista describe las definiciones y la problemática del producto de
+    acuerdo a las metas y objetivos del negocio, entonces a logrado realizar:`,
+    respuesta: "El visionamiento",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 489,
+    pregunta:
+      "Los riesgos de clasifican de acuerdo a su probabilidad de ocurrencia y el impacto que causan",
+    respuesta: "Verdadero",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 490,
+    pregunta:
+      "Las oportunidades de negocio, los objetivos de negocio, las métricas de éxito y unadeclaración de visión, determinan los requisitos de:",
+    respuesta: "Negocio",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 491,
+    pregunta:
+      "Determinar lo que está dentro y lo que está fuera del proyecto, se conoce como:",
+    respuesta: "Alcance",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 492,
+    pregunta: "Uno de los resultados del visionamiento tenemos",
+    respuesta: "Interesados del producto de forma general",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 493,
+    pregunta: "El diagrama de contexto ayuda a los interesados a ",
+    respuesta:
+      "Definir el alcance del proyecto, y centrarse en los insumos como en las salidas",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 494,
+    pregunta: `CUando se ha detectado el riesdo de "Expectativas poco realistas de los clientes", la mejor alternativa para mitigar sería:`,
+    respuesta: "Crear la visión del producto",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 495,
+    pregunta: "En un diagrama de contexto, el círculo representa:",
+    respuesta: "Sistema",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 496,
+    pregunta:
+      "En qué difiere un mapa del ecosistema con un diagrama de contexto?",
+    respuesta:
+      "En el mapa de ecosistema se representa a todos los sistemas con sus respectivas interacciones entre si",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 497,
+    pregunta: "Cuál de los siguientes ejemplos, es un diagrama de ecosistema?",
+    respuesta: "Figura (a)",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+    url:
+      "https://res.cloudinary.com/de6cygu00/image/upload/v1653275885/TestU/diagramaEcosistema_ggrzex.jpg",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 498,
+    pregunta:
+      "El IESS, para la UTPL con respecto al sistema de rol de pagos de sus profesores es un:",
+    respuesta: "Consejero",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 499,
+    pregunta: `En el siguiente ejemplo "Paciente", es:`,
+    respuesta: "Entidad Externa",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+    url:
+      "https://res.cloudinary.com/de6cygu00/image/upload/v1653276620/TestU/Diagrama_Entidad_externa_uzzbkp.jpg",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
+    id: 500,
+    pregunta:
+      "Cuando el proyecto está en etapa de Implementación y los directivos deciden incorporar un nuevo requerimiento, entonces tenemos:",
+    respuesta: "Retraso en la entrega y sobrecosto del producto",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 501,
+    pregunta:
+      "Cuando los interesados continuamente están cambiando las necesidades durante el desarrollo del proyecto, tenemos:",
+    respuesta: "Miembros del equipo de desarrollo desmoralizados",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 502,
+    pregunta:
+      "Cuando se han definido requisitos que no reflejan las necesidades reales de los clientes, se debe a:",
+    respuesta: "No se ha recolectado la información necesaria",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 503,
+    pregunta:
+      "Al proceso de establecer los servicios que el cliente requiere de un sistema y los límites bajo los cuales opera y se desarrolla, se conoce como:",
+    respuesta: "Ingeniería de requisitos",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 504,
+    pregunta:
+      "Cuando el equipo de desarrollo se asegura que el software satisface los requisitos especificados,se conoce como:",
+    respuesta: "Verificación",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 505,
+    pregunta:
+      "Demostrar que las necesidades del cliente se cumplen, es una actividad que se la conoce como:",
+    respuesta: "Validación",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 506,
+    pregunta: "Los requisitos no funcionales se los puede clasificar en:",
+    respuesta: "Producto, orgaización y externos",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 507,
+    pregunta:
+      "A las especificaciones de los servicios y restricciones que el sistema debe considerar, se conoce como requerimiento",
+    respuesta: "Funcional de sistema",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 508,
+    pregunta:
+      "A las declaraciones en lenguaje natural y en diagramas, de los servicios que se espera que el sistema provea y de las restricciones bajo las cuales se debe operar, se conoce como requerimiento",
+    respuesta: "Funcional de usuario",
     materia: "",
-    bimestre: "",
+    bimestre: "Primero",
+  },
+  {
+    id: 509,
+    pregunta:
+      "A las propiedades que el producto debe tener y que no es evidente para el usuario, incluyendo atributos de calidad, acciones e interfaces externas, se conoce como requerimiento:",
+    respuesta: "No funcionales",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 510,
+    pregunta: `En un proyecto sobre “Punto de venta” que cuenta con el recurso humano necesario, se ha
+    levantado información preliminar y se ha elaborado el documento de visión y alcance, mismo que
+    debe ser aprobado. ¿Quién debería aprobar?`,
+    respuesta: "Sponsor del proyecto",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 511,
+    pregunta:
+      "La UTPL, ha decidido implementar un nuevo sistema de matrícula en línea para lo cual se están definiendo el equipo de trabajo. El estudiante ¿Qué rol desempeñaría? ",
+    respuesta: "Usuario",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 512,
+    pregunta:
+      "A las personas u organizaciones que tienen influencia directa, indirecta o se ven influenciados por un proceso de software, se los conoce como:",
+    respuesta: "Interesados",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 513,
+    pregunta:
+      "Al que actúa como enlace entre el equipo de software y el administrador del negocio, se lo conoce como:",
+    respuesta: "Gerente del proyecto",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 514,
+    pregunta:
+      "Al que define o aprueba la visión y alcance del producto, se lo conoce como:",
+    respuesta: "Sponsor del proyecto",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 515,
+    pregunta:
+      "En general a los que deciden los objetivos cuando se mejora el negocio al hacer uso del producto software, se los conoce como:",
+    respuesta: "Interesados",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 516,
+    pregunta:
+      "Desde el punto de vista de desarrollo del producto software, a los interesados son importantes debido a que son:",
+    respuesta: "Potenciales fuentes de requisitos",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 519,
+    pregunta:
+      "El que tiene la principal responsabilidad para obtener, analizar, documentar y validar las necesidades de los interesados del proyecto, se conoce como:",
+    respuesta: "Analista de negocio",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 520,
+    pregunta:
+      "Al que se encargad de comunicar las actividades e informaci[on del proyecto se conoce como:",
+    respuesta: "Gerente del proyecto",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 521,
+    pregunta:
+      "El analista, al desarrollar un producto. ¿Qué es lo que tiene que considerar para que el usuario compre o acepte el producto de software?",
+    respuesta: "Qué el producto sea valioso, útil y satisfactorio",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 522,
+    pregunta: "En el visionamiento el “Cliente objetivo”, se refiere a:",
+    respuesta: "Las personas que usarán o comprarán el software",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 523,
+    pregunta:
+      "En la definición de la problemática en la parte de “Afecta a:”, se debe incluir:",
+    respuesta: "Personas, organización o clientes",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 524,
+    pregunta:
+      "Cuando el analista describe las definiciones y la problemática del producto de acuerdo a las metas y objetivos del negocio, entonces ha logrado realizar:",
+    respuesta: "El visionamiento",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 525,
+    pregunta:
+      "Cuando se ha detectado el riesgo “Expectativas poco realistas de los clientes”, la mejor alternativa para mitigar sería:",
+    respuesta: "Crear la visión del producto",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 526,
+    pregunta:
+      "Cuando se ha detectado el riesgo “Falta de participación del usuario”, la mejor alternativa para mitigar sería:",
+    respuesta: "Crear un plan de participación de interesados",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 527,
+    pregunta:
+      "Los requisitos de negocio y usuario se definen desde la perspectiva del usuario",
+    respuesta: "Verdadedo",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 528,
+    pregunta:
+      "El patrocinador del proyecto es uno de los que define los requisitos de negocio",
+    respuesta: "Verdadero",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 529,
+    pregunta:
+      "La declaración de la problemática como una ampliación al visionamiento es necesario cuando la solución que va a desarrollar necesita hacer un cambio en el proceso actual.",
+    respuesta: "Verdadero",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 530,
+    pregunta:
+      "El visionamiento y la problemática para proyecto pequeños y medianos son la misma cosa",
+    respuesta: "Falso",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 531,
+    pregunta:
+      "El diagrama de contexto permite determinar los procesos de negocio de la organización",
+    respuesta: "Falso",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 532,
+    pregunta: "La obtención es un:",
+    respuesta: "Proceso colaborativo y analítico",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 533,
+    pregunta:
+      "El diagrama de contexto permite determinar los procesos de negocio de la organización",
+    respuesta: "Falso",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 534,
+    pregunta: "La obtención permite descubrir requisitos",
+    respuesta: "Negocio, usuario funcionales y no funcionales",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 535,
+    pregunta:
+      "A la reunión de interesados cuidadosamente seleccionadas que trabajan bajo la guía de un experto neutral que produce y documenta modelos de requerimientos, se la conoce como:",
+    respuesta: "Taller",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 536,
+    pregunta:
+      "El primer paso que se debe hacer para realizar una entrevista es:",
+    respuesta: "Identificar las personas que se entrevistará",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 537,
+    pregunta:
+      "En el enfoque pasivo de la observación, el ingeniero de requisitos:",
+    respuesta: "Realiza el análisis en base a notas, videos, etc.",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 538,
+    pregunta: "En un taller, la primera actividad que se debe realizar es:",
+    respuesta: "Conducir la reunión",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 539,
+    pregunta: "El usuario no interviene en el proceso de obtención",
+    respuesta: "Falso",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 540,
+    pregunta:
+      "Cuando se realiza la entrevista no estructurada, no es necesario una comprensión por parte del entrevistador",
+    respuesta: "Falso",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 542,
+    pregunta:
+      "Una meta-pregunta que el entrevistador podría utilizar es: ¿Estoy haciendo demasiadas preguntas?",
+    respuesta: "Verdadero",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
+  },
+  {
+    id: 543,
+    pregunta:
+      "Cuando realiza las actividades de obtención “Educar a los interesados” es una de las actividades a realizar",
+    respuesta: "Verdadero",
+    materia: "IngRequisitos",
+    bimestre: "Primero",
   },
 ];

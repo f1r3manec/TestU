@@ -4,6 +4,7 @@ import { AdmBDD } from "../components/pages/AdmBDD";
 import FundamentosIngenieria from "../components/pages/FundamentosIngenieria";
 import HCI from "../components/pages/HCI";
 import Home from "../components/pages/Home";
+import Ing_Requisitos from "../components/pages/Ing_Requisitos";
 import RedesII from "../components/pages/RedesII";
 import NavBar from "../components/ui/NavBar";
 
@@ -17,6 +18,7 @@ const AppRouter = () => {
           <Route exact path="/FISotware" component={FundamentosIngenieria} />
           <Route exact path="/RedesII" component={RedesII} />
           <Route exact path="/ADMBDD" component={AdmBDD} />
+          <Route exact path="/Ing_Requisitos" component={Ing_Requisitos} />
           <Route path="/" component={Home} />
         </Switch>
       </div>

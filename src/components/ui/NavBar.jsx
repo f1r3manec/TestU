@@ -5,30 +5,39 @@ const NavBar = () => {
   return (
     <>
       <nav
-        className="navbar is-info"
+        className="navbar is-light has-text-danger"
         role="navigation"
-        aria-label="main navigation"
+        aria-label="dropdown navigation"
       >
-        <div className="navbar-brand">
-          <NavLink className="navbar-item" to="/">
-            Home
-          </NavLink>
-
-          <NavLink className="navbar-item" to="/HCI">
-            HCI
-          </NavLink>
-          <NavLink className="navbar-item" to="/FISotware">
-            Ingeniería Soft
-          </NavLink>
-          <NavLink className="navbar-item" to="/RedesII">
-            Redes II
-          </NavLink>
-          <NavLink className="navbar-item" to="/ADMBDD">
-            Adm. BDD
-          </NavLink>
+        <div className="navbar-item has-dropdown is-hoverable">
+          <span className="navbar-link">Cuarto</span>
+          <div className="navbar-dropdown">
+            <NavLink className="navbar-item" to="/ADMBDD">
+              Adm. BDD
+            </NavLink>
+          </div>
         </div>
-        <div className="navbar-menu ">
-          <div className="navbar-start"></div>
+        <div className="navbar-item has-dropdown is-hoverable">
+          <span className="navbar-link">Quinto</span>
+          <div className="navbar-dropdown">
+            <NavLink className="navbar-item" to="/HCI">
+              HCI
+            </NavLink>
+            <NavLink className="navbar-item" to="/FISotware">
+              Ingeniería Soft
+            </NavLink>
+            <NavLink className="navbar-item" to="/RedesII">
+              Redes II
+            </NavLink>
+          </div>
+        </div>
+        <div className="navbar-item has-dropdown is-hoverable">
+          <span className="navbar-link bg-dark">Sexto</span>
+          <div className="navbar-dropdown">
+            <NavLink className="navbar-item" to="/Ing_Requisitos">
+              Ingeniería de Requisitos
+            </NavLink>
+          </div>
         </div>
       </nav>
     </>

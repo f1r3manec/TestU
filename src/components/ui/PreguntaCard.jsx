@@ -17,7 +17,7 @@ const PreguntaCard = ({
           </div>
           <div className="message-body">
             {pregunta}
-            {url && <img src={url} alt="redesII" />}
+            {url && <img src={url} alt="preguntas" />}
           </div>
           <div className="message-body has-background-warning  has-text-Success">
             <p>

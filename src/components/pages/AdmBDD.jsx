@@ -1,44 +1,25 @@
-import React, { memo, useState } from "react";
+import React, { memo } from "react";
+import usePreguntas from "../hooks/usePreguntas";
+import PreguntasForm from "../ui/PreguntasForm";
 
-import { preguntasMaterias } from "../../assets/preguntas";
-import { buscarElementos } from "../helpers/helpers";
-import PreguntaCard from "../ui/PreguntaCard";
 export const AdmBDD = memo(() => {
-  const [inputValue, setInputValue] = useState("");
-
-  const initialState = preguntasMaterias.filter(
-    (pregunta) => pregunta.materia === "ADMBDD"
-  );
-  const [preguntasAdmBDD, setPreguntasAdmBDD] = useState(initialState);
-  const handleInputSearch = (e) => {
-    setInputValue(e.target.value);
-    setPreguntasAdmBDD(buscarElementos("ADMBDD", e.target.value));
-  };
+  const [
+    handleInputValueSearch,
+    listaPreguntas,
+    handleInputSearch,
+  ] = usePreguntas("ADMBDD");
   return (
-    <div className="column is-12 is-desktop is-mobile is-widescreen is-fullhd has-background-grey-dark">
-      <div className="container m-3">
-        <div className="columns is is-multiline">
-          <div className="column  ">
-            <p>
-              <input
-                type="text"
-                className="input is-success"
-                placeholder="busqueda"
-                name="busqueda"
-                value={inputValue}
-                onChange={handleInputSearch}
-              />
-            </p>
-          </div>
-          <div className="column is-12 is-offset-1 is-12 is-desktop is-mobile is-widescreen is-fullhd has-background-grey-dark">
-            <div className="columns is-multiline">
-              {preguntasAdmBDD.map((pre, index) => (
-                <PreguntaCard key={pre.id} {...pre} numPregunta={index + 1} />
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <>
+      {listaPreguntas ? (
+        <PreguntasForm
+          inputValue={handleInputValueSearch}
+          handleInputSearch={handleInputSearch}
+          listaPreguntas={listaPreguntas}
+          nombreMateria={"Administración de Base de Datos"}
+        />
+      ) : (
+        <h2>Pregunta</h2>
+      )}
+    </>
   );
 });

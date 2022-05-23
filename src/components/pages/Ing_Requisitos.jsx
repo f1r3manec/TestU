@@ -1,12 +1,13 @@
 import { memo } from "react";
 import usePreguntas from "../hooks/usePreguntas";
 import PreguntasForm from "../ui/PreguntasForm";
-const FundamentosIngenieria = memo(() => {
+
+const Ing_Requisitos = memo(() => {
   const [
     handleInputValueSearch,
     listaPreguntas,
     handleInputSearch,
-  ] = usePreguntas("FIS");
+  ] = usePreguntas("IngRequisitos");
   return (
     <>
       {listaPreguntas ? (
@@ -14,7 +15,7 @@ const FundamentosIngenieria = memo(() => {
           inputValue={handleInputValueSearch}
           handleInputSearch={handleInputSearch}
           listaPreguntas={listaPreguntas}
-          nombreMateria={"Fundamentos Ingeniría Software"}
+          nombreMateria={"Ingeniería de Requisitos"}
         />
       ) : (
         <h2>Pregunta</h2>
@@ -23,4 +24,4 @@ const FundamentosIngenieria = memo(() => {
   );
 });
 
-export default FundamentosIngenieria;
+export default Ing_Requisitos;
