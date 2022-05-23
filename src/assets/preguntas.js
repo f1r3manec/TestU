@@ -544,7 +544,6 @@ export const preguntasMaterias = [
     respuesta:
       "1.-La elección de los modelos tiene una profunda influencia en el acometimiento del problema y en cómo se da forma a la solución. 2.-Los modelos se pueden representar en distintos niveles de detalle, los analistas se suelen centrar en el qué, mientras que los diseñadores en el cómo.",
     bimestre: "Primer",
-    materia: "HCI",
   },
   {
     id: 69,
@@ -2951,7 +2950,7 @@ export const preguntasMaterias = [
     id: 368,
     pregunta:
       "Los arquitectos se centran principalmente en diseñar cualquier estructura que les proporcione la mayor influencia para lograr ...",
-    respuesta: "",
+    respuesta: "Los requisitos de atributos de calidad",
     materia: "FIS",
     bimestre: "Segundo",
   },
@@ -2972,7 +2971,7 @@ export const preguntasMaterias = [
   {
     id: 371,
     pregunta: "En enfoque en capas:",
-    respuesta: "",
+    respuesta: "Soporta el desarrollo incremental de sistemas.",
     materia: "FIS",
     bimestre: "Segundo",
   },
@@ -3692,7 +3691,8 @@ export const preguntasMaterias = [
   {
     id: 468,
     pregunta: "Evaluar un diseño arquitectónico implica:",
-    respuesta: "",
+    respuesta:
+      "Conocer que tan bien un sistema cubre con los requerimientos funcionales y no funcionales cuando está en uso.",
     materia: "FIS",
     bimestre: "Segundo",
   },
@@ -3707,7 +3707,7 @@ export const preguntasMaterias = [
   {
     id: 470,
     pregunta: "La descripción o especificación de un caso de uso ayuda a:",
-    respuesta: "",
+    respuesta: "Identificar los objetos y operaciones del sistema",
     materia: "FIS",
     bimestre: "Segundo",
   },
@@ -3783,20 +3783,511 @@ export const preguntasMaterias = [
   {
     id: 480,
     pregunta:
+      "Las aplicaciones web tienen acceso abierto a un conjunto de información, sin embargo, en determinadas circunstancias, es interesante poder limitar el acceso a documentos reservados para un conjunto restringido de personas.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 481,
+    pregunta:
+      "El Internet es muy flexible en disponer de sistemas de comunicación seguros, adaptables a las necesidades de los nuevos servicios, como la compra electrónica o la banca a distancia.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 482,
+    pregunta: "¿Qué es Cross-Site Scripting?",
+    respuesta: "Es cuando un atacante es capaz de inyectar un script.",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 483,
+    pregunta:
+      "Persistent XSS es el código malicioso mientras supera la barrera del proceso de validación, está almacenando en un archivo en el cliente.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 484,
+    pregunta:
+      "Con los objetos y las clases ahora es posible agrupar información y acciones de una forma muy fácil.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 485,
+    pregunta:
+      "El control de acceso a la información se utiliza para brindar el acceso total a determinados documentos de un servidor Web",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 486,
+    pregunta:
+      "Los ataques non-persistent XSS o reflected XSS se lanzan desde el pripio navegador del cleinte, mediante la app del usuario.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 487,
+    pregunta: "Seleccione la empresa donde comprar dominios ecuatorianos.",
+    respuesta: "nic.ec",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 488,
+    pregunta:
+      "Una de las restricciones que se pueden hacer para el acceso de la información es: Limitación de acceso en función de direcciones de correos electrónicos. Sólo los usuarios de un dominio por ejemplo gmail tendrán acceso a la información.",
+    respuesta: "False",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 489,
+    pregunta: "Los DNS significa: Domain Name Service",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 490,
+    pregunta: "La propiedad public sirve para:",
+    respuesta: "Poder acceder y modificar fuera del de la clase.",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 500,
+    pregunta:
+      "Seleccione como se puede modificar las características (variables) de la siguiente clase: class Carro{ public $color; public $potencia; public $marca; }",
+    respuesta: "$ miCarro = new Coche(); $ miCarro ->color = 'rojo';",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 501,
+    pregunta:
+      'En esta linea de código de PHP que se esta realizando: $comentario = trim($_POST["comentario"]);',
+    respuesta: "Validando el comentario ingresado por el usuario",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 502,
+    pregunta: "En el tema de las excepciones la función getMessage() devuelve:",
+    respuesta: "Devuelve el mensaje de la expeción.",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 503,
+    pregunta:
+      "Los Persistent XSS pueden ser un comentario en redes sociales, un archivo llamado externamente, un mensaje de notificación de java script, o cualquier otro tipo de sección del sitio web que solicita algún input externo al usuario.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 504,
+    pregunta:
+      "Persistent XSS es el código malicioso ya ha superado la barrera del proceso de validación y está almacenado en un almacén de datos.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 505,
+    pregunta:
+      "Timeout está configurado por defecto a 300 segundos, lo cual es apropiado para la mayoría de las situaciones",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 506,
+    pregunta:
+      "La propiedad private indica que es posible leer y reescribir la propiedad fuera de la clase",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 507,
+    pregunta:
+      "Para interactuar con una propiedad dentro de la clase se usa￿el signo $, seguido de la palabra “this” y una flecha: $this->",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 508,
+    pregunta: "Seleccione la forma correcta de crear un objeto",
+    respuesta: "$miCarro = new Carro();",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 509,
+    pregunta:
+      "El siguiente metodo retorna: function consulta_lista(){ while ($row = mysqli_fetch_array($this->Consulta_ID)) {    for ($i=0; $i < $this->numcampos(); $i++) {       $row[$i];    }    return $row;   } }",
+    respuesta: "Un arreglo",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 510,
+    pregunta:
+      "El servidor apache contiene su propio archivo de configuración que se llama httpd.conf",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 511,
+    pregunta: "Seleccione una de las reglas para escoger un nombre de dominio:",
+    respuesta: "No pueden empezar con un guión medio.",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 512,
+    pregunta:
+      "La propiedad public￿quiere decir que￿se puede acceder y modificar dentro de la clase.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 513,
+    pregunta: "Las excepciones se utilizan para:",
+    respuesta:
+      "Cambiar el flujo normal de un script si ocurre un error concreto dentro de una condición",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 514,
+    pregunta: "Los DNS significa: Domain Name Server",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 515,
+    pregunta:
+      "Para garantizar el control de acceso a la información en algunos casos se utiliza un fichero local en el cliente con las restricciones de acceso.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 516,
+    pregunta:
+      "Para garantizar el control de acceso a la información en algunos casos se utiliza un fichero local en el cliente con las restricciones de acceso.",
+    respuesta:
+      "class carro{ public function getColor() { // Contenido de la función } }",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 517,
+    pregunta:
+      "Timeout está configurado por defecto a 900 segundos, lo cual es apropiado para la mayoría de las situaciones",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 518,
+    pregunta:
+      "En la sanitización de datos si se espera un texto string de los usuarios",
+    respuesta: "se puedes evitar cualquier tipo de código HTML del cliente.",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 519,
+    pregunta:
+      "La llamada a la siguiente función es: function foo(){ try { throw new Exception(' Upps !!'); } catch (Exception $e ){ echo 'ErrorException' . $ e->getMessage(); } }",
+    respuesta: "foo()",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 520,
+    pregunta:
+      "Una de las restricciones que se pueden hacer para el acceso de la información es: Limitación de acceso por orden alfabético. Sólo los usuarios que tengan los apellidos en orden alfabético pueden acceder a la información.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 521,
+    pregunta: "La función empty() de php tiene como objetivo:",
+    respuesta: "Saber si una variable está vacía",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 523,
+    pregunta:
+      "La función en PHP para eliminar las etiquetas HTML de un string es:",
+    respuesta: "strip_tags($comentario);",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 524,
+    pregunta: "Una excepción es un error de la aplicación.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 525,
+    pregunta:
+      "La directriz ServerName configura un nombre de servidor y un número de puerto para el servidor.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 526,
+    pregunta: "Una excepción no es un error.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 527,
+    pregunta: "La sanitización de datos se centra en",
+    respuesta:
+      "manipular los datos para asegurarse que son confiables, eliminando cualquier parte indeseable y normalizándolos en la forma correcta.",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 528,
+    pregunta: "Seleccione la forma correcta de invocar archivos de php:",
+    respuesta: 'include("/dll/config.php"); include("/dll/class_mysqli.php");',
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 529,
+    pregunta:
+      "Las aplicaciones web tienen acceso abierto a un conjunto de información, sin embargo, en determinadas circunstancias, es imposible poder limitar el acceso a documentos reservados para un conjunto restringido de personas.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 530,
+    pregunta: "En el tema de las excepciones la función getLine() devuelve:",
+    respuesta: "Devuelve el la línea del fichero que lanzó la excepción.",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 531,
+    pregunta:
+      "Seleccione la forma correcta para que un método devuelve un valor:",
+    respuesta:
+      "class Carro { public function getColor() { return $this->color; } }",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 532,
+    pregunta:
+      "La directriz ServerRoot especifica el directorio de cada aplicación web que tiene el contenido.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 533,
+    pregunta:
+      "Los Cross Site Scripting se producen principalmente por validar incorrectamente datos de usuario de la base de datos, y se suelen inyectar mediante un formulario web o mediante un enlace alterado.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 534,
+    pregunta: `El siguiente script de captura de errores que tipo de problemas posee: try { throw new Exception(' Upps !!'); } catch (Exception $ e ){   echo "ErrorException"  .  $ e->getMessage(); }`,
+    respuesta: "No tiene Errores",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 535,
+    pregunta: "La programación orientada a objetos es",
+    respuesta:
+      "La creación de clases y definición de objetos, esto con el fin de reutilizar código en toda nuestra webapp.",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 536,
+    pregunta: "Seleccione la forma correcta de crear una clase:",
+    respuesta: "class Carro{ public $color; }",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 537,
+    pregunta:
+      "Para prevenir ataques cualquier dato que ingrese externamente debe ser eliminado por el servidor.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 539,
+    pregunta:
+      "Con los objetos y las clases no posible agrupar información ya que son independientes.",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 540,
+    pregunta:
+      ".htaccess (Acceso de Permisos -Texto) es el nombre por defecto del archivo de configuración de sub directorios de Apache",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 541,
+    pregunta:
+      "Los Persistent XSS pueden ser un comentario, un archivo log, un mensaje de notificación, o cualquier otro tipo de sección del sitio web que solicita algún input al usuario.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 542,
+    pregunta:
+      "El archivo php.ini provee de la habilidad para personalizar la configuración de las directivas definidas en el archivo de configuración principal",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 543,
+    pregunta:
+      "El control de acceso a la información se utiliza para limitar el acceso a determinados documentos de un servidor Web",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 544,
+    pregunta:
+      "Para prevenir ataques, las medidas a tomar se pueden dividir en tres: data validation, data sanitization y output escaping.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 545,
+    pregunta:
+      "Timeout define, en segundos, el tiempo que el servidor esperará por recibir y transmitir durante la comunicación.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 546,
+    pregunta: "Para permitir el acceso desde una sola IP:",
+    respuesta: "allow from 10.0.0.1",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 547,
+    pregunta:
+      "En estos servicios de Internet, se manejan dos conceptos fundamentales, la autentificación y la confidencialidad.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 548,
+    pregunta:
+      "En la técnica de validación de dato, si el script PHP espera un integer de un input,",
+    respuesta: "y su entrada es cualquier otro tipo de dato, se debe rechazar.",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 549,
+    pregunta:
+      "Una de las restricciones que se pueden hacer para el acceso de la información es: Limitación de acceso por nombres de usuario y claves de acceso. Sólo los usuarios que conozcan una clave de acceso válida pueden acceder a la información.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 550,
+    pregunta:
+      "Para capturar una excepción el código debe encontrarse dentro de un bloque try{} y debe tener al menos un bloque catch.",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 551,
+    pregunta:
+      "Para interactuar con una propiedad dentro de la clase se usa la palabra “this” y una flecha: this->",
+    respuesta: "Falso",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+
+  {
+    id: 552,
+    pregunta:
+      "Los objetivos que se quieren conseguir con ataques XSS son: robar cookies y sesiones de usuarios",
+    respuesta: "Verdadero",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 553,
+    pregunta:
+      "El nombre de dominio está compuesto por dos partes: El nombre y:",
+    respuesta: "TLD",
+    materia: "DESWEB",
+    bimestre: "Segundo",
+  },
+  {
+    id: 554,
+    pregunta:
       "Los requisitos de negocio se los describe en el documento de visión y alcance.",
     respuesta: "Falso",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 481,
+    id: 555,
     pregunta: "La ingeniería de requisitos en esencia consiste en:",
     respuesta: "Especificar requisitos de software",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 482,
+    id: 556,
     pregunta: `Se puede decir que un requisito es "claro", cuándo proporciona la información
     suficiente para su comprensión.`,
     respuesta: "FALSO",
@@ -3804,7 +4295,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 483,
+    id: 557,
     pregunta: `En la etapa de "obtención", se negocian las prioridades de implementación del
     producto.`,
     respuesta: "Falso",
@@ -3812,7 +4303,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 484,
+    id: 558,
     pregunta:
       "Al individuo de que actúa como enlace entre el equipo de software y el administrador del negocio, se lo conoce como:",
     respuesta: "Gerente",
@@ -3820,7 +4311,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 485,
+    id: 559,
     pregunta: `En el proyecto se ha determinado que el riesgo "Falta de involucramiento del
     usuario", está entre 26% y 74% de probabilidad que pueda ocurrir, entonces el
     riesgo esta en un rango bajo`,
@@ -3829,7 +4320,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 486,
+    id: 560,
     pregunta: `Cuando en un riesgo existe la probabilidad de que ocurra es baja y su impacto
     también es bajo, entonces se puede decir que es un riesgo "insignificante".`,
     respuesta: "Verdadero",
@@ -3837,14 +4328,14 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 487,
+    id: 561,
     pregunta: `En el visionamiento el "Cliente objetivo", se refiere a :`,
     respuesta: "Las personas que usarán o comprarán el software",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 488,
+    id: 562,
     pregunta: `Cuando el analista describe las definiciones y la problemática del producto de
     acuerdo a las metas y objetivos del negocio, entonces a logrado realizar:`,
     respuesta: "El visionamiento",
@@ -3852,7 +4343,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 489,
+    id: 563,
     pregunta:
       "Los riesgos de clasifican de acuerdo a su probabilidad de ocurrencia y el impacto que causan",
     respuesta: "Verdadero",
@@ -3860,7 +4351,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 490,
+    id: 564,
     pregunta:
       "Las oportunidades de negocio, los objetivos de negocio, las métricas de éxito y unadeclaración de visión, determinan los requisitos de:",
     respuesta: "Negocio",
@@ -3868,7 +4359,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 491,
+    id: 565,
     pregunta:
       "Determinar lo que está dentro y lo que está fuera del proyecto, se conoce como:",
     respuesta: "Alcance",
@@ -3876,14 +4367,14 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 492,
+    id: 566,
     pregunta: "Uno de los resultados del visionamiento tenemos",
     respuesta: "Interesados del producto de forma general",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 493,
+    id: 567,
     pregunta: "El diagrama de contexto ayuda a los interesados a ",
     respuesta:
       "Definir el alcance del proyecto, y centrarse en los insumos como en las salidas",
@@ -3891,21 +4382,21 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 494,
+    id: 568,
     pregunta: `CUando se ha detectado el riesdo de "Expectativas poco realistas de los clientes", la mejor alternativa para mitigar sería:`,
     respuesta: "Crear la visión del producto",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 495,
+    id: 569,
     pregunta: "En un diagrama de contexto, el círculo representa:",
     respuesta: "Sistema",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 496,
+    id: 570,
     pregunta:
       "En qué difiere un mapa del ecosistema con un diagrama de contexto?",
     respuesta:
@@ -3914,7 +4405,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 497,
+    id: 571,
     pregunta: "Cuál de los siguientes ejemplos, es un diagrama de ecosistema?",
     respuesta: "Figura (a)",
     materia: "IngRequisitos",
@@ -3923,7 +4414,7 @@ export const preguntasMaterias = [
       "https://res.cloudinary.com/de6cygu00/image/upload/v1653275885/TestU/diagramaEcosistema_ggrzex.jpg",
   },
   {
-    id: 498,
+    id: 572,
     pregunta:
       "El IESS, para la UTPL con respecto al sistema de rol de pagos de sus profesores es un:",
     respuesta: "Consejero",
@@ -3931,7 +4422,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 499,
+    id: 573,
     pregunta: `En el siguiente ejemplo "Paciente", es:`,
     respuesta: "Entidad Externa",
     materia: "IngRequisitos",
@@ -3940,7 +4431,7 @@ export const preguntasMaterias = [
       "https://res.cloudinary.com/de6cygu00/image/upload/v1653276620/TestU/Diagrama_Entidad_externa_uzzbkp.jpg",
   },
   {
-    id: 500,
+    id: 574,
     pregunta:
       "Cuando el proyecto está en etapa de Implementación y los directivos deciden incorporar un nuevo requerimiento, entonces tenemos:",
     respuesta: "Retraso en la entrega y sobrecosto del producto",
@@ -3948,7 +4439,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 501,
+    id: 575,
     pregunta:
       "Cuando los interesados continuamente están cambiando las necesidades durante el desarrollo del proyecto, tenemos:",
     respuesta: "Miembros del equipo de desarrollo desmoralizados",
@@ -3956,7 +4447,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 502,
+    id: 576,
     pregunta:
       "Cuando se han definido requisitos que no reflejan las necesidades reales de los clientes, se debe a:",
     respuesta: "No se ha recolectado la información necesaria",
@@ -3964,7 +4455,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 503,
+    id: 577,
     pregunta:
       "Al proceso de establecer los servicios que el cliente requiere de un sistema y los límites bajo los cuales opera y se desarrolla, se conoce como:",
     respuesta: "Ingeniería de requisitos",
@@ -3972,7 +4463,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 504,
+    id: 578,
     pregunta:
       "Cuando el equipo de desarrollo se asegura que el software satisface los requisitos especificados,se conoce como:",
     respuesta: "Verificación",
@@ -3980,7 +4471,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 505,
+    id: 579,
     pregunta:
       "Demostrar que las necesidades del cliente se cumplen, es una actividad que se la conoce como:",
     respuesta: "Validación",
@@ -3988,14 +4479,14 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 506,
+    id: 580,
     pregunta: "Los requisitos no funcionales se los puede clasificar en:",
     respuesta: "Producto, orgaización y externos",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 507,
+    id: 581,
     pregunta:
       "A las especificaciones de los servicios y restricciones que el sistema debe considerar, se conoce como requerimiento",
     respuesta: "Funcional de sistema",
@@ -4003,7 +4494,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 508,
+    id: 582,
     pregunta:
       "A las declaraciones en lenguaje natural y en diagramas, de los servicios que se espera que el sistema provea y de las restricciones bajo las cuales se debe operar, se conoce como requerimiento",
     respuesta: "Funcional de usuario",
@@ -4011,7 +4502,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 509,
+    id: 583,
     pregunta:
       "A las propiedades que el producto debe tener y que no es evidente para el usuario, incluyendo atributos de calidad, acciones e interfaces externas, se conoce como requerimiento:",
     respuesta: "No funcionales",
@@ -4019,7 +4510,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 510,
+    id: 584,
     pregunta: `En un proyecto sobre “Punto de venta” que cuenta con el recurso humano necesario, se ha
     levantado información preliminar y se ha elaborado el documento de visión y alcance, mismo que
     debe ser aprobado. ¿Quién debería aprobar?`,
@@ -4028,7 +4519,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 511,
+    id: 585,
     pregunta:
       "La UTPL, ha decidido implementar un nuevo sistema de matrícula en línea para lo cual se están definiendo el equipo de trabajo. El estudiante ¿Qué rol desempeñaría? ",
     respuesta: "Usuario",
@@ -4036,7 +4527,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 512,
+    id: 586,
     pregunta:
       "A las personas u organizaciones que tienen influencia directa, indirecta o se ven influenciados por un proceso de software, se los conoce como:",
     respuesta: "Interesados",
@@ -4044,7 +4535,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 513,
+    id: 587,
     pregunta:
       "Al que actúa como enlace entre el equipo de software y el administrador del negocio, se lo conoce como:",
     respuesta: "Gerente del proyecto",
@@ -4052,7 +4543,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 514,
+    id: 588,
     pregunta:
       "Al que define o aprueba la visión y alcance del producto, se lo conoce como:",
     respuesta: "Sponsor del proyecto",
@@ -4060,7 +4551,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 515,
+    id: 589,
     pregunta:
       "En general a los que deciden los objetivos cuando se mejora el negocio al hacer uso del producto software, se los conoce como:",
     respuesta: "Interesados",
@@ -4068,7 +4559,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 516,
+    id: 590,
     pregunta:
       "Desde el punto de vista de desarrollo del producto software, a los interesados son importantes debido a que son:",
     respuesta: "Potenciales fuentes de requisitos",
@@ -4076,7 +4567,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 519,
+    id: 591,
     pregunta:
       "El que tiene la principal responsabilidad para obtener, analizar, documentar y validar las necesidades de los interesados del proyecto, se conoce como:",
     respuesta: "Analista de negocio",
@@ -4084,7 +4575,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 520,
+    id: 592,
     pregunta:
       "Al que se encargad de comunicar las actividades e informaci[on del proyecto se conoce como:",
     respuesta: "Gerente del proyecto",
@@ -4092,7 +4583,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 521,
+    id: 593,
     pregunta:
       "El analista, al desarrollar un producto. ¿Qué es lo que tiene que considerar para que el usuario compre o acepte el producto de software?",
     respuesta: "Qué el producto sea valioso, útil y satisfactorio",
@@ -4100,14 +4591,14 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 522,
+    id: 594,
     pregunta: "En el visionamiento el “Cliente objetivo”, se refiere a:",
     respuesta: "Las personas que usarán o comprarán el software",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 523,
+    id: 595,
     pregunta:
       "En la definición de la problemática en la parte de “Afecta a:”, se debe incluir:",
     respuesta: "Personas, organización o clientes",
@@ -4115,7 +4606,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 524,
+    id: 596,
     pregunta:
       "Cuando el analista describe las definiciones y la problemática del producto de acuerdo a las metas y objetivos del negocio, entonces ha logrado realizar:",
     respuesta: "El visionamiento",
@@ -4123,7 +4614,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 525,
+    id: 597,
     pregunta:
       "Cuando se ha detectado el riesgo “Expectativas poco realistas de los clientes”, la mejor alternativa para mitigar sería:",
     respuesta: "Crear la visión del producto",
@@ -4131,7 +4622,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 526,
+    id: 598,
     pregunta:
       "Cuando se ha detectado el riesgo “Falta de participación del usuario”, la mejor alternativa para mitigar sería:",
     respuesta: "Crear un plan de participación de interesados",
@@ -4139,7 +4630,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 527,
+    id: 599,
     pregunta:
       "Los requisitos de negocio y usuario se definen desde la perspectiva del usuario",
     respuesta: "Verdadedo",
@@ -4147,7 +4638,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 528,
+    id: 600,
     pregunta:
       "El patrocinador del proyecto es uno de los que define los requisitos de negocio",
     respuesta: "Verdadero",
@@ -4155,7 +4646,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 529,
+    id: 601,
     pregunta:
       "La declaración de la problemática como una ampliación al visionamiento es necesario cuando la solución que va a desarrollar necesita hacer un cambio en el proceso actual.",
     respuesta: "Verdadero",
@@ -4163,7 +4654,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 530,
+    id: 602,
     pregunta:
       "El visionamiento y la problemática para proyecto pequeños y medianos son la misma cosa",
     respuesta: "Falso",
@@ -4171,7 +4662,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 531,
+    id: 603,
     pregunta:
       "El diagrama de contexto permite determinar los procesos de negocio de la organización",
     respuesta: "Falso",
@@ -4179,14 +4670,14 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 532,
+    id: 604,
     pregunta: "La obtención es un:",
     respuesta: "Proceso colaborativo y analítico",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 533,
+    id: 605,
     pregunta:
       "El diagrama de contexto permite determinar los procesos de negocio de la organización",
     respuesta: "Falso",
@@ -4194,14 +4685,14 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 534,
+    id: 606,
     pregunta: "La obtención permite descubrir requisitos",
     respuesta: "Negocio, usuario funcionales y no funcionales",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 535,
+    id: 607,
     pregunta:
       "A la reunión de interesados cuidadosamente seleccionadas que trabajan bajo la guía de un experto neutral que produce y documenta modelos de requerimientos, se la conoce como:",
     respuesta: "Taller",
@@ -4209,7 +4700,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 536,
+    id: 608,
     pregunta:
       "El primer paso que se debe hacer para realizar una entrevista es:",
     respuesta: "Identificar las personas que se entrevistará",
@@ -4217,7 +4708,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 537,
+    id: 609,
     pregunta:
       "En el enfoque pasivo de la observación, el ingeniero de requisitos:",
     respuesta: "Realiza el análisis en base a notas, videos, etc.",
@@ -4225,21 +4716,21 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 538,
+    id: 610,
     pregunta: "En un taller, la primera actividad que se debe realizar es:",
     respuesta: "Conducir la reunión",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 539,
+    id: 611,
     pregunta: "El usuario no interviene en el proceso de obtención",
     respuesta: "Falso",
     materia: "IngRequisitos",
     bimestre: "Primero",
   },
   {
-    id: 540,
+    id: 612,
     pregunta:
       "Cuando se realiza la entrevista no estructurada, no es necesario una comprensión por parte del entrevistador",
     respuesta: "Falso",
@@ -4247,7 +4738,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 542,
+    id: 613,
     pregunta:
       "Una meta-pregunta que el entrevistador podría utilizar es: ¿Estoy haciendo demasiadas preguntas?",
     respuesta: "Verdadero",
@@ -4255,11 +4746,18 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 543,
+    id: 614,
     pregunta:
       "Cuando realiza las actividades de obtención “Educar a los interesados” es una de las actividades a realizar",
     respuesta: "Verdadero",
     materia: "IngRequisitos",
     bimestre: "Primero",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
   },
 ];

@@ -29,6 +29,9 @@ const NavBar = () => {
             <NavLink className="navbar-item" to="/RedesII">
               Redes II
             </NavLink>
+            <NavLink className="navbar-item" to="/DesarrolloWeb">
+              Desarrollo Web
+            </NavLink>
           </div>
         </div>
         <div className="navbar-item has-dropdown is-hoverable">

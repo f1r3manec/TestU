@@ -20,7 +20,7 @@ const AppRouter = () => {
           <Route exact path="/RedesII" component={RedesII} />
           <Route exact path="/ADMBDD" component={AdmBDD} />
           <Route exact path="/Ing_Requisitos" component={Ing_Requisitos} />
-          <Route exact path="/DesWeb" component={DesarrolloWeb} />
+          <Route exact path="/DesarrolloWeb" component={DesarrolloWeb} />
           <Route path="/" component={Home} />
         </Switch>
       </div>

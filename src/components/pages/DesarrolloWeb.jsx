@@ -1,28 +1,24 @@
-import React, { useState } from "react";
-import { preguntasMaterias } from "../../assets/preguntas";
-import { buscarElementos } from "../helpers/helpers";
-import Questions from "../ui/Questions";
+import usePreguntas from "../hooks/usePreguntas";
+import PreguntasForm from "../ui/PreguntasForm";
 
 const DesarrolloWeb = () => {
-  const [inputValue, setInputValue] = useState("");
-
-  const initialState = preguntasMaterias.filter(
-    (pregunta) => pregunta.materia === "DESWEB"
-  );
-  const [preguntasDESWEB, setPreguntasDESWEB] = useState(initialState);
-
-  const handleInputSearch = (e) => {
-    setInputValue(e.target.value);
-    setPreguntasDESWEB(buscarElementos("DESWEB", e.target.value));
-  };
-
+  const [
+    handleInputValueSearch,
+    listaPreguntas,
+    handleInputSearch,
+  ] = usePreguntas("DESWEB");
   return (
     <>
-      <Questions
-        inputValue={inputValue}
-        handleInputSearch={handleInputSearch}
-        coleccion={preguntasDESWEB}
-      />
+      {listaPreguntas ? (
+        <PreguntasForm
+          inputValue={handleInputValueSearch}
+          handleInputSearch={handleInputSearch}
+          listaPreguntas={listaPreguntas}
+          nombreMateria={"Desarrollo Web"}
+        />
+      ) : (
+        <h2>Pregunta</h2>
+      )}
     </>
   );
 };
