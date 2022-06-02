@@ -4754,6 +4754,327 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
+    id: 615,
+    pregunta:
+      "Es una serie ordenada de instrucciones bien definidas, que llevan a la solución de un determinado problema.",
+    respuesta: "Algoritmo",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 616,
+    pregunta: "Resuelven una necesidad específica de negocios.",
+    respuesta: "Software de aplicación",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 617,
+    pregunta:
+      "Es un software centrado en redes y actúa como una interfaz entre el usuario e Internet.",
+    respuesta: "Aplicaciones web",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 618,
+    pregunta:
+      "Incluye técnicas que apoyan a la especificación, el diseño y la evolución de un sistema.",
+    respuesta: "Ingeniería del software",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 619,
+    pregunta: "A qué se atribuye la denominada crisis del software:",
+    respuesta:
+      "A la la escasa fiabilidad y a la insatisfacción de los usuarios.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 620,
+    pregunta: "La ingeniería de software es una disciplina que:",
+    respuesta: "Orienta y organiza el proceso para desarrollar software",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 621,
+    pregunta: "Es el elemento que ha permitido globalizar las TIC:",
+    respuesta: "Internet",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 622,
+    pregunta: "A qué sectores económicos apoya el software:",
+    respuesta:
+      "Todas las anteriores, OPCIONES:Educación, banca, trasporte, comunicaciones, Salud, comercio, entretenimiento, industria",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 623,
+    pregunta:
+      "En una organización se puede desarrollar software propio o adquirirlo externamente, qué aspecto es necesario considerarlo para tomar ésta decisión:",
+    respuesta: "Saber si se cuenta con el factor técnico y económico",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 624,
+    pregunta: "El principio de abstracción nos dice que:",
+    respuesta: "Identificar los aspectos relevantes de un problema",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 625,
+    pregunta: "La ingeniería de software está comprometida en garantizar:",
+    respuesta: "La calidez",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 626,
+    pregunta: "Un ejemplo de una actividad es:",
+    respuesta: "Crear pruebas",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 627,
+    pregunta: "Son pequeños pasos manejables del proyecto a ser completados:",
+    respuesta: "Tareas",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 628,
+    pregunta:
+      "El aseguramiento de que el software cumple con lo que el cliente o usario finalquiere, se lo realiza en la actividad de:",
+    respuesta: "Validación",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 629,
+    pregunta:
+      "Cuál de las siguientes opciones describe al modelo de proceso incremental",
+    respuesta:
+      "El sistema se divide en un conjunto de particiones que se van desarrollando endiferentes momentos",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 630,
+    pregunta:
+      "Si un proyecto de desarrollo de software tiene requerimientos volátiles o que nose los conoce aún muy a fondo, que metodología de desarrollo de softwarerecomendaría seguir:",
+    respuesta: "Ágiles",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 631,
+    pregunta: "Son metodologías reconocidas por su orientación a la planeación",
+    respuesta: "Tradicionales",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 632,
+    pregunta: "En RUP, son los resultados tangibles del proyecto:",
+    respuesta: "Artefactos",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 633,
+    pregunta:
+      "Se adaptan a las necesidades dinámicas y cambiantes de los clientes:",
+    respuesta: "Metodologías ágiles",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 634,
+    pregunta:
+      "Cuál es la principal medida del progreso de un proyecto de desarrollo desoftware, de acuerdo al enfoque ágil:",
+    respuesta: "Software funcionando",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 635,
+    pregunta: "¿Qué es el software?",
+    respuesta:
+      "Conjunto de procedimientos y programas que se ejecutan en una computadora para cumplir con una tarea o una acción específica.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 636,
+    pregunta:
+      "Es un conjunto de conjunto de programas, instrucciones y reglas informáticas para ejecutar ciertas tareas en una computadora:",
+    respuesta: "Software",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 637,
+    pregunta:
+      "Seleccione cuál de las opciones planteadas son características de un software heredado:",
+    respuesta:
+      "Resultan costosos de mantener y tienen alto riesgo en su evolución.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 638,
+    pregunta: "La ingeniería de software es",
+    respuesta:
+      "Una disciplina que se encarga del desarrollo, operación y mantenimiento del software.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 639,
+    pregunta:
+      "¿En qué etapa cronológica surge el concepto de la ingeniería de software?",
+    respuesta: "Segunda Etapa Cronológica",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 640,
+    pregunta:
+      "Los programas que se construyen con carácter de especializados corresponden al dominio:",
+    respuesta: "Software de aplicación",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 641,
+    pregunta:
+      "Ayudan a establecer un conjunto de herramientas para una práctica sólida de la ingeniería de software:",
+    respuesta: "Principios",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 642,
+    pregunta:
+      "Un sistema complejo puede dividirse en piezas más simples llamadas módulos, esto corresponde al principio de:",
+    respuesta: "Modularidad.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 643,
+    pregunta:
+      "Es un proceso mediante el cual se identifican los aspectos relevantes de un problema ignorando los detalles, esto corresponde al principio de:",
+    respuesta: "Abstracción",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 644,
+    pregunta:
+      "Es una estructura para las actividades, acciones y tareas para la construcción de software:",
+    respuesta: "Proceso de software.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 645,
+    pregunta: "Las fases o etapas del modelo en cascada son:",
+    respuesta: "Análisis, diseño, implementación validación y mantenimiento.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 646,
+    pregunta:
+      "Es el primer modelo en incluir actividades de identificación y mitigación de riesgos:",
+    respuesta: "Modelo espiral",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 647,
+    pregunta:
+      "Las principales características de este modelo son la revisión y la mejora:",
+    respuesta: "Modelo iterativo.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 648,
+    pregunta:
+      "Esta metodología permite aplicar de manera individual eindependiente cada uno de sus componentes:",
+    respuesta: "MSF",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 649,
+    pregunta: "En RUP, las actividades responden al:",
+    respuesta: "Cómo?",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 650,
+    pregunta: "Es considerada una metodología ágil:",
+    respuesta: "DSDM",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 651,
+    pregunta: "Es una característica del movimiento ágil:",
+    respuesta: "Se basa en la práctica y no en la teoría.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 652,
+    pregunta: "Las metodologías ágiles siguen los modelos:",
+    respuesta: "Iterativo'incremental",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 653,
+    pregunta: "Los resultados del Chaos Report inducen a que:",
+    respuesta: "Los proyectos más grandes estén orientados al fracaso",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
+    id: "",
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
+  },
+  {
     id: "",
     pregunta: "",
     respuesta: "",
