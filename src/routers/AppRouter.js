@@ -7,6 +7,7 @@ import HCI from "../components/pages/HCI";
 import Home from "../components/pages/Home";
 import Ing_Requisitos from "../components/pages/Ing_Requisitos";
 import MetodologiasD from "../components/pages/MetodologiasDesarrollo";
+import { PlanificacionEst } from "../components/pages/PlanificacionEstrategica";
 import RedesII from "../components/pages/RedesII";
 import NavBar from "../components/ui/NavBar";
 
@@ -22,6 +23,11 @@ const AppRouter = () => {
           <Route exact path="/ADMBDD" component={AdmBDD} />
           <Route exact path="/Ing_Requisitos" component={Ing_Requisitos} />
           <Route exact path="/DesarrolloWeb" component={DesarrolloWeb} />
+          <Route
+            exact
+            path={"/PlanificacionEstrategica"}
+            component={PlanificacionEst}
+          />
           <Route
             exact
             path="/MetodologiasDesarrollo"

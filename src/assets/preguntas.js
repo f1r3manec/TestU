@@ -5515,26 +5515,455 @@ export const preguntasMaterias = [
     materia: "MetodologiasD",
     bimestre: "Primero",
   },
-
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 713,
+    pregunta: "Las organizaciones altas:",
+    respuesta: "Involucra una larga cadena de mando.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 714,
+    pregunta:
+      "El propósito la planificación estratégica es visualizar o desarrollar una solución, a través de una lluvia de ideas y enfoques que pueden ayudar a cumplir la intención y los objetivos estratégicos de un proyecto o iniciativa específicos.",
+    respuesta: "Falso",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 715,
+    pregunta: "La organización empresarial traduce su visión y misión en:",
+    respuesta: "Modelo de negocio.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 716,
+    pregunta:
+      "Un punto clave para prepararse para la planificación estratégica es:",
+    respuesta: "Preparar un historial y un perfil organizacional.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 717,
+    pregunta:
+      "Quien desarrolla e implementa la visión y estrategia digital de manera transversal, con conocimientos tanto de tecnología como de estrategia de negocio se denomina:",
+    respuesta: "CDO",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 718,
+    pregunta:
+      "El paso que consiste en reunir información actualizada sobre las fortalezas, oportunidades, debilidades, amenazas (FODA) y rendimiento de una organización, evaluaciones que resaltarán los problemas críticos que enfrenta una organización y que el plan estratégico debe abordar, se denomina: Esta declaración corresponde a:",
+    respuesta: "Evaluación del entorno organizacional",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 719,
+    pregunta: "En la misión, el componente de valores establece:",
+    respuesta:
+      "Las creencias básicas compartidas por los miembros de la organización y practicadas en su trabajo",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 720,
+    pregunta: "La junta directiva está la capacidad de",
+    respuesta:
+      "Garantizar un buen proceso de planificación, contribuir con una perspectiva visionaria y general al proceso y aprobar el plan final.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 721,
+    pregunta: "A nivel organizacional, la cultura digital está orientada a:",
+    respuesta: "Los resultados y al producto.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 722,
+    pregunta:
+      "El proceso de crear o reescribir la misión de una organización, identificar y evaluar las metas y estrategias a largo plazo para alcanzar esas metas y determinar los recursos necesarios se denomina:",
+    respuesta: "Planificación organizacional.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 723,
+    pregunta:
+      "De los siguientes enunciados, indique cual corresponde a la declaración de visión:",
+    respuesta:
+      "Ser la empresa más centrada en el cliente de la Tierra, donde los clientes pueden encontrar y descubrir cualquier cosa que deseen comprar en línea.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 724,
+    pregunta:
+      "Uno de los principales retos a los cuales se enfrentan las organizaciones es:",
+    respuesta: "La velocidad y la capacidad de respuesta.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 725,
+    pregunta:
+      "La arquitectura empresarial es en una herramienta muy importante para:",
+    respuesta: "El análisis de proyectos o casos de negocio.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 726,
+    pregunta:
+      "Las empresas no comprenden realmente qué significa la digitalización y a qué se refieren las personas dentro y fuera de la empresa cuando usan la palabra. Muy pocos tienen definiciones claras y holísticas, lo que hace que la planificación estrategica sea una oportunidad para revertir esta situación",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 727,
+    pregunta:
+      "De los siguientes enunciados, indique cual corresponde a la declaración de misión:",
+    respuesta: "Acelerar la transición del mundo hacia la energía sostenible.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 728,
+    pregunta: "Las organizaciones por definición interactuan con:",
+    respuesta: "Su ecosistema de negocio",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 729,
+    pregunta: `La planificación estratégica puede sufrir ciertos errores comunes, y estos pueden deberse a una amplia gama de factores, incluido el personal, la ejecución estratégica, la falta de compromiso u otros problemas más profundos dentro de la empresa. De los mencionados a continuación indique cual está relacionado con la comunicación y retroalimentación:`,
+    respuesta: "Ninguno de los mencionados",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 730,
+    pregunta:
+      "Una de las principales características de la cultura digital es:",
+    respuesta:
+      "La colaboración como una forma de compartir ideas con sus clientes y socios.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 731,
+    pregunta: "La estrategia a nivel corporativo:",
+    respuesta:
+      "Se utiliza para determinar líneas de negocio, expansión y crecimiento, adquisiciones y fusiones, diversificación, integración, nuevas áreas de inversión y desinversión.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 732,
+    pregunta:
+      "De los siguientes enunciados, indique cual corresponde a la declaración de misión:",
+    respuesta:
+      "Organizar la información del mundo y hacerla universalmente accesible y útil.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 733,
+    pregunta:
+      "Caer en la trampa de copiar las mejores prácticas de una empresa similar a la suya será fácil. Aunque emplear las mejores prácticas de su industria es importante, las experiencias de otras organizaciones no serán relevantes para la suya.",
+    respuesta: "Esta impulsada por la oferta y la demanda.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 734,
+    pregunta:
+      "Indique cuál de los siguientes no es un componente clave de una estrategia digital empresarial:",
+    respuesta: "Fortalecer sistemas legados.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 735,
+    pregunta:
+      "Desarrollar una visión y misión, identificar las oportunidades y amenazas externas de una organización y determinar las fortalezas y debilidades internas son todas actividades.",
+    respuesta: "Formulación de la estrategia.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 736,
+    pregunta: "En una cultura digital la estrategia multicanal, implica:",
+    respuesta:
+      "Utilizarán múltiples canales para interactuar con una organización antes de tomar una decisión de compra.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 737,
+    pregunta:
+      "Las capacidades digitales describen las habilidades y actitudes que las personas y las organizaciones necesitan para prosperar en el mundo actual. También son las capacidades que requiere una empresa para transformarse en un negocio sostenible, relevante y exitoso utilizando la tecnología digital como facilitador. Tomando en consideración las cinco reglas de una estrategia de transformación digital indique a que regla hace referencia el texto anterior.",
+    respuesta: "Construir nuevos músculos estratégicos.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 738,
+    pregunta:
+      "Quienes deben evaluar la preparación de la organización para iniciar el proceso de planificación estratégica son:",
+    respuesta: "Los altos mandos.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 739,
+    pregunta:
+      "De los siguientes enunciados, indique cual corresponde a la declaración de visión:",
+    respuesta: "Crear una mejor vida diaria para muchas personas.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 740,
+    pregunta:
+      "Las organizaciones deben establecer un programa de gestión de riesgos para comprender la cultura prevaleciente, identificar señales que resalten los desafíos culturales e instituir cambios de comportamiento necesarios para una transformación digital exitosa.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 741,
+    pregunta:
+      "La arquitectura empresarial una herramienta para mejorar el entendimiento de:",
+    respuesta: "Los procesos de una organización",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 742,
+    pregunta:
+      "La planificación estratégica consiste en definir qué hará la empresa para lograr sus objetivos. Sin embargo, ninguna empresa puede hacer todo. Una buena estrategia dice Sí a algunas acciones posibles, pero dice No a otras",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 743,
+    pregunta:
+      "El responsable de la gestión y administración en una organización se denomina:",
+    respuesta: "CEO",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 744,
+    pregunta:
+      "Debido a que una transformación digital se trata del futuro de la empresa, la planificación para respaldarla debe depender de la estrategia de la empresa, no de las preocupaciones centradas en TI. Los ejecutivos deben centrarse primero en lo que es relevante para el crecimiento de su negocio y cómo una implementación en la nube puede respaldar esa estrategia. Las decisiones sobre los recursos tecnológicos para respaldar esa estrategia vienen después. Y mientras traslada los sistemas a la nube, la organización debe mantener un enfoque en aquellos que experimentarán los sistemas que admite la nube, tanto los usuarios internos como los clientes. Indique que es lo más relevante que se menciona en el texto anterior en relación a los componentes de la estrategia digital de una empresa:",
+    respuesta: "Ninguna de las anteriores",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 745,
+    pregunta:
+      "A veces, una empresa puede interpretar mal una situación desde el principio, por ejemplo, al no examinar cómo las fuerzas digitales cambiarán una industria o al tener una visión y misión corporativa insuficiente para ver y aprovechar la innovación de productos y modelos de negocios. No tener una comprensión sólida de lo que está sucediendo en su industria puede llevar a un alcance de cambio superficial o estrecho para cualquier estrategia de transformación digital.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 746,
+    pregunta:
+      "Los equipos se relacionan con la agregación de personas de diversas funciones en un equipo dedicado que proporcionan un alto grado de autonomía, eludiendo así la estructura organizativa tradicional.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 747,
+    pregunta:
+      "La transformación digital está teniendo un impacto de gran alcance en el entorno empresarial, creando tanto oportunidades como desafíos. Las tendencias interrelacionadas como el comercio electrónico, los macrodatos, el aprendizaje automático y la inteligencia artificial (IA) y la Internet de las cosas (IoT) podrían generar grandes ganancias de productividad para la economía. Sin embargo, la alteración de los modelos sociales y empresariales existentes, así como de los mercados establecidos, alterará la vida de millones de ciudadanos. Para aprovechar al máximo estos cambios, lar organizaciones deberán planificar con anticipación, de modo que las políticas e instituciones adecuadas estén en su lugar lo antes posible. Existe una necesidad colectiva de reunir buenos análisis y evidencia desde el principio y apoyar el desarrollo de respuestas de políticas digitales en áreas como la competencia, los impuestos y el comercio. Tomando en consideración las cinco reglas de una estrategia de transformación digital indique a que regla hace referencia el texto anterior.",
+    respuesta: "Definir la ambición digital.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 748,
+    pregunta:
+      "¿Cuál de estos explica el motivo de la existencia de la empresa e identifica qué negocio emprende la empresa?",
+    respuesta: "Visión.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 749,
+    pregunta:
+      "La alineación entre negocio y TI es un estado dinámico en el que una organización empresarial puede utilizar la tecnología de la información (TI) de forma eficaz para lograr los objetivos empresariales, por lo general un rendimiento financiero mejorado o la competitividad del mercado.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 750,
+    pregunta: "Las organizaciones planas:",
+    respuesta: "Ninguna de las mencionadas. ",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 751,
+    pregunta:
+      "La estrategia digital tiene que ser incorporada en la estrategia corporativa. La combinación de la estrategia digital con la estrategia corporativa brinda la capacidad de adaptarse rápidamente a los requisitos dinámicos del mercado digital.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 752,
+    pregunta: "A nivel organizacional, la cultura digital está orientada a:",
+    respuesta: "Los resultados y al producto.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 753,
+    pregunta: "A nivel de clientes y demanda, la cultura análoga:",
+    respuesta: "Esta impulsada por la oferta y la demanda.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 754,
+    pregunta:
+      "Una estrategia de negocio es un conjunto de movimientos y acciones compefüivas que una organización utiliza para atraer clientes, competir con éxito, fortarecer el desempeño y alcanzar los: objetivos de la organización:",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 755,
+    pregunta:
+      "¿Cuál es la principal diferencia entre declaraciones de visión y declaraciones de misión?",
+    respuesta:
+      "Las declaraciones de visión se basan en ideal!es, mientras que las declaracione.s de misión se basan en objetivos realistas.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 756,
+    pregunta:
+      "La planificación estratégica consiste en definir qué hará la empresa para lograr sus objetivos. Sin embargo, ninguna empresa puede hacer todo. Una buena estrategia dice Sí a algunas acciones posibles, pero dic,e No a otras",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 757,
+    pregunta: "Las organizaciones por definición son:",
+    respuesta: "Enti,dades sociales orientadas a las metas.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 758,
+    pregunta:
+      "Muchas empresas cuando planfican estrateicamente no miran lo suficiente más allá de los lím¡tes de su empresa. La estrayegia digital debe estar enfocada en la economía de las plataformas y el ecosistema y requi,ere una visión holística del mlsmo, Ja cadena de valor o la red.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 759,
+    pregunta:
+      "Muchas empresas cuando planfican estrateicamente no miran lo suficiente más allá de los lím¡tes de su empresa. La estrayegia digital debe estar enfocada en la economía de las plataformas y el ecosistema y requiere una visión holística del mlsmo, Ja cadena de valor o la red.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 760,
+    pregunta: `Una declaración de misión, a veces llamada declaración de credo, se puede definir como una "declaración de propósito duradera que distingue a una organización de otras empresas similares".`,
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 761,
+    pregunta: "El proceso de planificación de estratégica es encabezado por:",
+    respuesta: "El comité de planificación estratégica.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 762,
+    pregunta:
+      "Una de las principales características de la cultura digital es:",
+    respuesta:
+      "La colaboración como una forma de compartir ideas con sus clientes y socios.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 763,
+    pregunta:
+      "Sin un enfoque ,estratégico definido, una empresa aún puede lograr todos sus objetivos.",
+    respuesta: "Falso",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 765,
+    pregunta:
+      "¿Cuál es más específico y se traduce en objetivos tanto a corto como a largo plazo?",
+    respuesta: "Objetivos",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 766,
+    pregunta:
+      "Las organizaciones altas han tenido que transformarse debido a la fuerte incursión de:",
+    respuesta: "Las tecnologías de la información.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 767,
+    pregunta:
+      "Las organizaciones altas han tenido que transformarse debido a la fuerte incursión de:",
+    respuesta: "Las tecnologías de la información.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 768,
+    pregunta: "la estrategia a nivel gerencial:",
+    respuesta:
+      "Es desarrollado por los gerentes generales, quienes convierten la misión y la visión en estrategias concretas ..",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 769,
+    pregunta:
+      "En el mundo digital se aplica una economía diferente que en el mundo físico. Lo digital, por ejemplo, destruye las economías de demanda trndicionales, impulsa la economía de escala y aumenta la importancia las cadenas de producción .",
+    respuesta: "Falso",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 780,
+    pregunta:
+      "De los siguientes enunciados, indique cual corresponde a: ¡a declaración de visión",
+    respuesta:
+      "Crear los siguientes enunciados, indique cual corresponde a: ¡a declaración de visión",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
   },
 ];
