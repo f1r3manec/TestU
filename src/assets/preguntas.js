@@ -5597,15 +5597,15 @@ export const preguntasMaterias = [
     pregunta:
       "De los siguientes enunciados, indique cual corresponde a la declaración de visión:",
     respuesta:
-      "Ser la empresa más centrada en el cliente de la Tierra, donde los clientes pueden encontrar y descubrir cualquier cosa que deseen comprar en línea.",
+      "Ser la empresa más centrada en el cliente de la Tierra, donde los clientes pueden encontrar y descubrir cualquier cosa que deseen comprar en línea",
     materia: "PlanificacionEst",
     bimestre: "Primero",
   },
   {
     id: 724,
     pregunta:
-      "Uno de los principales retos a los cuales se enfrentan las organizaciones es:",
-    respuesta: "La velocidad y la capacidad de respuesta.",
+      "Sin un enfoque estratégico definido, una empresa aún puede lograr todos sus objetivos.",
+    respuesta: "falso.",
     materia: "PlanificacionEst",
     bimestre: "Primero",
   },
@@ -6030,7 +6030,161 @@ export const preguntasMaterias = [
     pregunta:
       "La planificación estratégiica puede sufrir cierios errores comunes, y estos pueden deberse a una amplia gama de factores, incluido el personal, la ejecución estratégica, la falta de compromiso u otros problemas más profundos dentro de la empresa. De los mencionado a continuación indique cual está, relacionado con la falta de compromiso:",
     respuesta:
-      "Las empresas hacen p,!anes solo porque la sabidurí,a o las prácticas predominantes lo exigen.",
+      "Las empresas hacen planes solo porque la sabiduría o las prácticas predominantes lo exigen.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 789,
+    pregunta:
+      "la alineación entre negocio y TI es un estado dinámico en el que una organización empresarial puede utíliz.ar la tecnología de la información (TI) de forma eficaz para lograr los objetivos empresariaJes, por lo general un r,endimiento financiero mejorado o la competitividad del mercado.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 790,
+    pregunta:
+      "la al¡neación entre negocio y TI es un estado dinámico en el que una organización empresarial puede utíliz.ar la tecnología de la información (TI) de forma eficaz para lograr los objetivos empresariaJes, por lo general un r,endimiento financiero mejorado o la competitividad del mercado",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 791,
+    pregunta: "la declaración de la visión debe transmitir:",
+    respuesta: "La visión externa e interna de la organización.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 792,
+    pregunta:
+      "El marco dentro del cual una organización ordena sus líneas de autoridad y comunicación de denomina:",
+    respuesta: "Estructura organizacional.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 793,
+    pregunta:
+      "La estrategia se puede definir como la forma única de creación de valor sostenible de una organización. Esto significa que la estrategia de una organización expresa qué valor crea, para quién y cómo lo hace de una manera única que s,e puede mantener durante a!gún tiempo.",
+    respuesta: "Veradero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 794,
+    pregunta:
+      "La implementación de planes de negocios y arquitecturas de TIC flexibles, así como la asignación efectiva de costos, son componentes críticos de cualquier esfuerzo de alineación negocio-TIC.",
+    respuesta: "verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 795,
+    pregunta: "La cultura organizacional:",
+    respuesta:
+      "Sirve como elemento diferenciador de las capacidades de organización frente a otras organizaciones.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 796,
+    pregunta: "A nivel de dientes y demanda, la cultura digital:",
+    respuesta: "Esta impulsada por la demanda del cliente.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 797,
+    pregunta:
+      "La Arquitectura .Empresarial permite definir un verdadero plan estratégico de la organización, teniendo en cuenta cuatro componentes:",
+    respuesta:
+      "Negocio, información, aplicaciones e infraestructura tecnológica.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 798,
+    pregunta: "A nivel de dientes y demanda, la cultura digital:",
+    respuesta: "Esta impulsada por la demanda del cliente.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 799,
+    pregunta:
+      "Cuál de los siguientes enunciados es un error en un proceso de planificación estratégica.",
+    respuesta:
+      "No crear un dima organizacional que sea receptivo a la planificación y el cambio.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 800,
+    pregunta:
+      "El proceso de planificación estratégica es parte de una asociación entre los altos mandos, gerentes o líderes y el personal de la organización. La razón por la que estos grupos deben involucrarse se encuentra en la intersección de:",
+    respuesta: "La gobernanza y la administración.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 801,
+    pregunta: "La especialización:",
+    respuesta:
+      "Define áreas de control para cada una de las actividades que se realizan en la organización.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 802,
+    pregunta:
+      "La Arquitectura Empresarial permite definir un verdadero plan estratégico de la organización, teniendo en cuenta cuatro componentes:",
+    respuesta:
+      "Negocio, información, aplicaciones e infraestructura tecnológica.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 803,
+    pregunta:
+      "La Arquitectura Empresarial permite definir un verdadero plan estratégico de la organización, teniendo en cuenta cuatro componentes:",
+    respuesta:
+      "Negocio, información, aplicaciones e infraestructura tecnológica.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 804,
+    pregunta:
+      "Una estrategia de negocio es un conjunto de movimientos y acciones competitivas que una organización utiliza para atraer clientes, competir con éxito, fortalecer el desempeño y alcanzar los objetivos de la organización:",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 805,
+    pregunta:
+      "Es una declaración de los negocios de una empresa en los que pretende competir y los clientes a los que pretende servir.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 806,
+    pregunta:
+      " Algunas juntas directivas tratan la transformación digital como una cuestión de gestión y no como parte de su función, mientras que, al mismo tiempo, algunos miembros del equipo ejecutivo evitan el tema y lo tratan como algo propiedad de TI. Este comportamiento de disociación en cascada impide un cambio real. La transformación digital debe ser parte de la visión y misión de la organización y estar   en el radar de sus líderes. Aun así, se puede lograr un progreso regular si el CIO toma a cargo de proceso de transformación.",
+    respuesta: "Falso",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 807,
+    pregunta: `Para que una organización se convierta en un negocio digital, "Debe pensar en su empresa como parte de un ecosistema dinámico de valor que conecta los recursos digitales dentro de la empresa según sea necesario para competir.`,
+    respuesta: "Verdadero",
     materia: "PlanificacionEst",
     bimestre: "Primero",
   },
