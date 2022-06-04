@@ -543,7 +543,7 @@ export const preguntasMaterias = [
       "Sabatini presenta algunos principios a considerar en el modelado, entre estos:",
     respuesta:
       "1.-La elección de los modelos tiene una profunda influencia en el acometimiento del problema y en cómo se da forma a la solución. 2.-Los modelos se pueden representar en distintos niveles de detalle, los analistas se suelen centrar en el qué, mientras que los diseñadores en el cómo.",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 69,
@@ -551,7 +551,7 @@ export const preguntasMaterias = [
       "En el diseño de navegación de una página web, el diseño de pantalla refiere a:",
     respuesta: "diseño de página",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 70,
@@ -559,7 +559,7 @@ export const preguntasMaterias = [
       "Una de las tres formas de observar el diseño de interacción según Saffer(2010) es la vista conductua",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 71,
@@ -567,7 +567,7 @@ export const preguntasMaterias = [
       "Como lo expone (Muñoz Artega et al., 2014), cuando se tienen claros los fundamentos conceptuales de HCI es necesario trabajar con los modelos de __________ para conocer ¿cómo es la interacción entre el usuario y el sistema, y las partes que intervienen en dicha interacción?",
     respuesta: "interacción",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 72,
@@ -575,7 +575,7 @@ export const preguntasMaterias = [
       "Para Preece & Rombach (1994), la Ingeniería de Software (IS) se preocupa por los métodos y _______ para el desarrollo de software general basado en principios de ingeniería",
     respuesta: "herramientas",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 73,
@@ -584,7 +584,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-Sistemas recomendadores, que recogen las huellas que va dejando el usuario en cada interacción. 2.-Algoritmos de clusterización, para identificar necesidades grupales.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 74,
@@ -592,7 +592,7 @@ export const preguntasMaterias = [
       "En el diseño de navegación de dispositivos, el diseño de pantalla refiere a:",
     respuesta: "disposición física",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 75,
@@ -601,7 +601,7 @@ export const preguntasMaterias = [
     respuesta:
       "adaptar modelos de conversión de gestos y voz, a datos etiquetables en emociones.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 76,
@@ -609,7 +609,7 @@ export const preguntasMaterias = [
       "En un entorno empresaria, cuál de las siguientes cogniciones son valoradas para establecer un modelo general de usuario (en etapa de producción y venta), al cual vender sus servicios y productos:",
     respuesta: "cognición colectiva o distribuida",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 77,
@@ -618,7 +618,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-una pila de capturas de pantalla. 2.-una 'imagen' electrónica.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 78,
@@ -626,7 +626,7 @@ export const preguntasMaterias = [
       "La información del entorno del mundo real es una entrada implícita para la realidad virtual y aumentada, reduciendo las interacciones con el ordenador de forma directa.",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 79,
@@ -635,7 +635,7 @@ export const preguntasMaterias = [
     respuesta:
       "Un dispositivo personalizado para para usuario, si el estudio es longitudinal.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 80,
@@ -643,7 +643,7 @@ export const preguntasMaterias = [
       "Teniendo como precedente los datos de conectividad por telefonía móvil e internet en Ecuador (2017), es factible operativamente plantear soluciones con interfaces para dispositivos móviles.",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 81,
@@ -652,7 +652,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-Expresiones faciales de seres humanos adultos (Ekman) 2.-Clasificación de palabras que expresan emociones (Shaver et al.)",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 82,
@@ -660,7 +660,7 @@ export const preguntasMaterias = [
       "Cuando el diseñador habla del proceso de aplicar distintas técnicas y principios con el propósito de definir un dispositivo, un proceso o un sistema, se refiere a:",
     respuesta: "Diseño",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 83,
@@ -668,7 +668,7 @@ export const preguntasMaterias = [
       "En aplicaciones de realidad aumentada, como el caso de PokemonGo, como diseñador, se tiene que considerar en el diseño, la autorización del usuario para:",
     respuesta: "Permisos de Geolocalización.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 84,
@@ -676,7 +676,7 @@ export const preguntasMaterias = [
       "Los diagramas de casos de uso y el prototipado para la producción de soluciones de diseño, son algunas de las técnicas que son utilizadas en un DCU.",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 85,
@@ -684,7 +684,7 @@ export const preguntasMaterias = [
       "Es tarea del diseñador, identificar en el usuario: la memoria, la visión, cognición, oído, y tacto, como factores para optimizar la interacción (Hernández, 2014)",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 86,
@@ -692,7 +692,7 @@ export const preguntasMaterias = [
       "Como lo expone Saffer (2010), el Diseño de Interacción se trata de _______ , y es mucho más difícil de observar y comprender que la apariencia.",
     respuesta: "",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 87,
@@ -700,7 +700,7 @@ export const preguntasMaterias = [
       "Para Dix et al.(2003), 'El diseño de interacción consiste en crear intervenciones en situaciones a menudo complejas usando tecnología de muchos tipos, incluido el software para PC, la web y los dispositivos físicos'",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 88,
@@ -708,7 +708,7 @@ export const preguntasMaterias = [
       "El diseño y ubicación de los dispositivos son específicos de la actividad objetivo del proceso de interacción.",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 89,
@@ -716,7 +716,7 @@ export const preguntasMaterias = [
       "Los requerimientos funcionales, explican 'tiempos de respuesta y referentes de seguridad'",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 90,
@@ -725,7 +725,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-Acercar las necesidades reales del usuario a las ciencias de la computación. 2.-Incrementar la usabilidad de los sistemas informáticos.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 91,
@@ -734,7 +734,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-La explosión del poder de procesamiento 2.-La computación en la nube",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 92,
@@ -742,7 +742,7 @@ export const preguntasMaterias = [
       "En el ciclo de desarrollo de un sistema, los diseñadores de interacción solo se preocupan por las interacciones específicas entre un usuario y una ___________.",
     respuesta: "pantalla",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 93,
@@ -750,7 +750,7 @@ export const preguntasMaterias = [
       "En la aplicación de los principios de Diseño de Interacción, si los usuarios esperan que funcione de una manera diferente, tendrás que enfrentarlo para que se apliquen las universalidades del diseño.",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 94,
@@ -758,7 +758,7 @@ export const preguntasMaterias = [
       "Alan Cooper (Cooper, 2004) plantea que el diseño mantiene la resolución de problemas con más alta prioridad, si el diseño se hace por objetivos, enfocándose Primer en satisfacer las necesidades y deseos específicos del usuario final",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 95,
@@ -766,7 +766,7 @@ export const preguntasMaterias = [
       "Como tarea de Modelado, es de gran importancia considerar la ergonomía como elemento para establecer condiciones físicas necesarias para la interacción",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 96,
@@ -775,7 +775,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-la visibilidad del objeto sobre el cual se va a realizar la acción. 2.-la comprensión intuitiva, de la parte del objeto sobre la que hemos de realizar la acción y cómo hacerlo.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 97,
@@ -784,7 +784,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-Factores Humanos en el Diseño 2.-Tecnologías asistivas y accesibilidad ",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 98,
@@ -792,7 +792,7 @@ export const preguntasMaterias = [
       "Al hacer diseño basado en Interacción Natural, se tiene que considerar (marque todas las opciones que considere correctas):",
     respuesta: "1.-Comandos informáticos por gestos. 2.-Órdenes por voz",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 99,
@@ -800,7 +800,7 @@ export const preguntasMaterias = [
       "Uno de los cuatro pasos para llevar a cabo un DCU es: la producción de soluciones de _______",
     respuesta: "diseño",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 100,
@@ -808,7 +808,7 @@ export const preguntasMaterias = [
       "HCI se encuentra en un punto intermedio entre las humanidades y las ciencias, y recoge fundamentos de una de estas ciencias:",
     respuesta: "Psicología",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 101,
@@ -816,14 +816,14 @@ export const preguntasMaterias = [
       "La vista del diseño de interacción social, gira en torno a facilitar la comunicación entre los humanos a través de los teléfonos",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 102,
     pregunta: "Sobre los prototipos de baja fidelidad, es posible afirmar que:",
     respuesta: "Son usados como un medio preliminar para mostrar una idea",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 103,
@@ -832,7 +832,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-utilizar UsiXML y CAMELEON para realizar las transformaciones correspondientes de los modelos previos a UI finales. 2.-utilizar YAWL o IdealXML para la transformación de un nivel a otro en el diseño de la UI",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 104,
@@ -840,7 +840,7 @@ export const preguntasMaterias = [
       "Los requerimientos funcionales, explican 'que es lo que el sistema debería hacer'",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 105,
@@ -849,7 +849,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-dispositivo móvil sincronizado, del usuario. 2.-almacenamiento y procesamiento en la nube, personalizado al usuario.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 106,
@@ -857,7 +857,7 @@ export const preguntasMaterias = [
       "El acrónimo HCI como rama de Ciencias de la Computación proviene de",
     respuesta: "Human Computer Interaction",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 107,
@@ -866,7 +866,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-el autocontrol, para ejercer dominio sobre sí mismo y en el aprendizaje de la aplicación. 2.-la capacidad para motivarse a uno mismo, aplicable en todo el proceso de aprendizaje e interacción. ",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 108,
@@ -874,7 +874,7 @@ export const preguntasMaterias = [
       "El primer curso MOOC, se presentó para la cátedra de IA por los profesores de Stanford, Sebastian Thrun y Peter Norving,teniendo una gran acogida, con _____ estudiantes a nivel mundial.",
     respuesta: "160.000",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 109,
@@ -883,7 +883,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-muestra la comunicación entre los humanos a través de los productos. ",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 110,
@@ -891,7 +891,7 @@ export const preguntasMaterias = [
       "En la aplicación de los principios de Diseño de Interacción, el usuario prueba el diseño _______ tan a fondo como el diseño del comportamiento.",
     respuesta: "visual",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 111,
@@ -899,7 +899,7 @@ export const preguntasMaterias = [
       "La experiencia del usuario considera todos los aspectos de un __________ que afectan a los usuarios.",
     respuesta: "sistema",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 112,
@@ -907,7 +907,7 @@ export const preguntasMaterias = [
       "En la aplicación de los principios de Diseño de Interacción, se debe permitir a los usuarios tomar sus propias decisiones, incluso  estéticamente pobres.",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 113,
@@ -915,7 +915,7 @@ export const preguntasMaterias = [
       "En el diseño de Interacción, los dispositivos wearables, son usados para soluciones de geolocalización, salud, monitoreo y ubicuidad.",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 114,
@@ -923,7 +923,7 @@ export const preguntasMaterias = [
       "Para Dix et al.(2003), 'El proceso de diseño tiene varias etapas, es iterativo y nunca se completa'",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 115,
@@ -931,14 +931,14 @@ export const preguntasMaterias = [
       "(Preece et al., 2015) sugiere dos preguntas que se tiene que hacer un diseñador para establecer requerimientos: (marque todas las opciones que considere correctas)",
     respuesta: "1.-¿Qué se necesita lograr? 2.-¿Cómo puede hacerse esto?",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 116,
     pregunta: "El Conectivismo como teoría del aprendizaje es promovido por:",
     respuesta: "",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 117,
@@ -946,7 +946,7 @@ export const preguntasMaterias = [
       "HCI es una disciplina a la que le concierne tanto el diseño, la evaluación y la implementación de sistemas de cómputo interactivo para uso humano",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 118,
@@ -954,7 +954,7 @@ export const preguntasMaterias = [
       "'La tecnología se alimenta a sí misma. La tecnología hace posible más tecnología' es una expresión de:",
     respuesta: "Alvin Toffler",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 119,
@@ -962,7 +962,7 @@ export const preguntasMaterias = [
       "Cuando nos referimos a que el usuario prueba el diseño visual, en los primeros principios de diseño, nos referimos a:",
     respuesta: "Estética",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 120,
@@ -970,7 +970,7 @@ export const preguntasMaterias = [
       "Son varias las metodologías aplicadas al diseño de interacción, entre las que destacan según Saffer(2010) (marque todas las opciones que considere correctas):",
     respuesta: "Creación de soluciones apropiadas.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 121,
@@ -978,7 +978,7 @@ export const preguntasMaterias = [
       "Alan Cooper hace hincapié en la necesidad de conectar a las personas con el producto, por lo que es necesario hacernos una de las siguientes preguntas:",
     respuesta: "¿Dónde utilizará el usuario el producto?",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 122,
@@ -986,7 +986,7 @@ export const preguntasMaterias = [
       "El tamaño de la pantalla de un dispositivo móvil, es una característica secundaria a tener en cuenta al diseñar la interacción con el usuario.",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 123,
@@ -994,7 +994,7 @@ export const preguntasMaterias = [
       "El diseño condiciona todo lo que puede hacer una máquina, por tanto, es de gran importancia la tarea de diseñar su comportamiento.",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 124,
@@ -1002,7 +1002,7 @@ export const preguntasMaterias = [
       "Cuando hacemos diseño de interacción, es necesario considerar las huellas digitales que nuestros clientes dejan al usar redes sociales y tecnología móvil.",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 125,
@@ -1010,7 +1010,7 @@ export const preguntasMaterias = [
       "El diseño centrado en el usuario (DCU) es un proceso iterativo de desarrollo de software cuyo fin es conseguir sistemas _______gracias a la participación activa de los usuarios.",
     respuesta: "",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 126,
@@ -1019,7 +1019,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-Un único modelo no es suficiente. 2.-Los mejores modelos se mantienen ligados a la realidad. Revisar",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 127,
@@ -1027,7 +1027,7 @@ export const preguntasMaterias = [
       "Las emociones básicas, desarrolladas de forma teórica por Ekman (1992, 1999) y otros muchos expertos de la Psicología, son la base que sostiene la gran mayoría de estudios de la computación afectiva.",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 128,
@@ -1035,7 +1035,7 @@ export const preguntasMaterias = [
       "En el ámbito del diseño de aplicaciones para tablet y teléfonos móviles, es necesario considerar que su fin principal son la comunicación, ubicuidad y entretenimiento.",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 129,
@@ -1043,7 +1043,7 @@ export const preguntasMaterias = [
       "La Ingenieria del Software se preocupa por 'cómo se construye el software' y HCI por 'cómo las personas _______ el software'",
     respuesta: "",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 130,
@@ -1051,7 +1051,7 @@ export const preguntasMaterias = [
       "Los cambios en cuanto a avances tecnológicos han superado la conocida Ley de Moore, según la cual cada dos años se duplicaría el número de _______ en un microprocesador",
     respuesta: "transistores",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 131,
@@ -1059,7 +1059,7 @@ export const preguntasMaterias = [
       "La ubicuidad refiere a la _______ permanente de la tecnología, de tal forma que el usuario tenga la capacidad de realizar las actividades relacionadas en cualquier sitio.",
     respuesta: "disponibilidad permanente",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 132,
@@ -1067,7 +1067,7 @@ export const preguntasMaterias = [
       "Según (Preece et al., 2015), son cuatro las actividades básicas en el diseño de interacción: (marque todas las opciones que considere correctas)",
     respuesta: "1.-Prototipado 2.-Evaluación",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 133,
@@ -1075,14 +1075,14 @@ export const preguntasMaterias = [
       "En cuanto a la estética, la moda debe prevalecer sobre la usabilidad.",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 134,
     pregunta:
       "El ser humano interactúa a menudo con estímulos que son procesados por el sistema sensorio-motriz, donde se involucra el pensamiento, el lenguaje y vivencias de cada uno de forma individual y colectiva.",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 135,
@@ -1090,7 +1090,7 @@ export const preguntasMaterias = [
       "Guzmán, Alvarez, & Mendoza (2014), categorizan los dispositivos móviles en: (marque todas las opciones que considere correctas)",
     respuesta: "1.-Teléfonos móviles revisar m[as respuestas",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 136,
@@ -1098,7 +1098,7 @@ export const preguntasMaterias = [
       "HCI busca incrementar la ............................... de los sistemas informáticos, para que sean fáciles de aprender.",
     respuesta: "usabilidad",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 137,
@@ -1106,7 +1106,7 @@ export const preguntasMaterias = [
       "HCI permite en muchos casos la emisión de comandos informáticos con gestos comunes u órdenes de voz, en lo que se conoce como la .......................",
     respuesta: "Interacción Natural",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 138,
@@ -1114,7 +1114,7 @@ export const preguntasMaterias = [
       "Hernández (2014) explica que la realidad aumentada trata de reducir las interacciones con el ordenador utilizando la información del ..................... como una entrada implícita.",
     respuesta: "entorno",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 139,
@@ -1122,7 +1122,7 @@ export const preguntasMaterias = [
       "El método más común utilizado para trabajar con realidad virtual se basa en el solapamiento entre la información digital y las imágenes del mundo real a través del uso de visualizadores en casco o proyecciones de vídeo.",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 140,
@@ -1130,7 +1130,7 @@ export const preguntasMaterias = [
       "La VR genera una sensación de presencia física directa mediante indicaciones sensoriales:",
     respuesta: "visuales",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 141,
@@ -1138,7 +1138,7 @@ export const preguntasMaterias = [
       "Para Preece & Rombach (1994), HCI se preocupa por los métodos y lasherramientas para el desarrollo de interfaces persona-computadora, evaluando la.......................... de los sistemas informáticos",
     respuesta: "usabilidad",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 142,
@@ -1146,7 +1146,7 @@ export const preguntasMaterias = [
       "La fase de Diseño integra a profesionales de otras áreas de la ciencia, iniciandoen Arte y Gráficos, Multimedia y Audio, Comunicación Social, Psicología yEducación, Administración y Gerencia, entre otras",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 143,
@@ -1154,7 +1154,7 @@ export const preguntasMaterias = [
       "Tradicionalmente, IS se ha preocupado por 'cómo se construye el software' y HCI por 'cómo las personas ....................... el software'.",
     respuesta: "usan",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 144,
@@ -1162,7 +1162,7 @@ export const preguntasMaterias = [
       "Un modelo es una simplificación de la realidad, en donde se recogen aquellosaspectos de gran importancia y se omiten los que no tienen relevancia para elnivel de abstracción dado.",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 145,
@@ -1170,7 +1170,7 @@ export const preguntasMaterias = [
       "En cuanto a autonomía, se debe permitir a los usuarios tomar sus propiasdecisiones, incluso si son estéticamente pobres o menos conductuales.",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 146,
@@ -1178,7 +1178,7 @@ export const preguntasMaterias = [
       "El diseño de interacción y el diseño de la interfaz son mutuamente dependiente,muchas veces las decisiones de un plano condicionarán las decisiones en el otroplano",
     respuesta: "Falso",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 147,
@@ -1186,7 +1186,7 @@ export const preguntasMaterias = [
       "Los diseñadores de interacción solo se preocupan por las interaccionesespecíficas entre un usuario y una",
     respuesta: "pantalla",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 148,
@@ -1194,7 +1194,7 @@ export const preguntasMaterias = [
       "El diseño de interacción condiciona todo lo que puede hacer una.............................. , por tanto, es de gran importancia la tarea de diseñar sucomportamiento.",
     respuesta: "máquina",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 149,
@@ -1202,7 +1202,7 @@ export const preguntasMaterias = [
       "En cuanto a color, es necesario que las personas con Daltonismo prueben susitio, para conocer lo que ésta población puede ver.",
     respuesta: "Verdadero",
     materia: "HCI",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 150,
@@ -1210,7 +1210,7 @@ export const preguntasMaterias = [
       "Conteste verdadero o falso: En las interfaces de un switch es necesario configurar una dirección IP",
     respuesta: "Falso",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 151,
@@ -1218,7 +1218,7 @@ export const preguntasMaterias = [
       "La notación simplificada correcta de la siguiente dirección 2001:0DB8:0000:0000:ABCD:0000:0000:0001",
     respuesta: "2001:DB8::ABCD:0:0:1",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 153,
@@ -1226,7 +1226,7 @@ export const preguntasMaterias = [
       "Si se ha dividido la red 172.16.0.0 usando una máscara de 255.255.252.0.¿Cuál es la dirección de la 3ra subred?",
     respuesta: "172.16.8.0",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 154,
@@ -1234,7 +1234,7 @@ export const preguntasMaterias = [
       "Si la red de destino no se encuentra en la tabla de ruteo por donde se envían los paquetes",
     respuesta: "Ruta predeterminada",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 155,
@@ -1242,7 +1242,7 @@ export const preguntasMaterias = [
       "En una red OSPF que debe tener salida a Internet, ¿Cuál de los tipos de routers tendrá la ruta de salida a Internet?",
     respuesta: "Autonomous System Border Router ASBR",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 156,
@@ -1250,14 +1250,14 @@ export const preguntasMaterias = [
       "Conteste verdadero o falso: El algoritmo Dijkstra requiere que todos los nodos deben conocer toda la topología",
     respuesta: "Verdadero",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 157,
     pregunta: "En el protocolo RIP el tiempo de vida de las rutas es de:",
     respuesta: "180 segundos",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 158,
@@ -1265,7 +1265,7 @@ export const preguntasMaterias = [
       "El tamaño máximo del paquete IP incluido el encabezado y los datos es de:",
     respuesta: "1500 bytes",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 159,
@@ -1273,7 +1273,7 @@ export const preguntasMaterias = [
       "¿Qué campo del datagrama IP evita que los paquetes permanezcan viajando sin fin?",
     respuesta: "TTL",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 160,
@@ -1281,7 +1281,7 @@ export const preguntasMaterias = [
       "Si se ha dividido la red 172.16.0.0/16 usando una máscara de 255.255.248.0.¿Cuál es la dirección de broadcast de la 4ta subred?",
     respuesta: "172.16.31.255",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 161,
@@ -1291,7 +1291,7 @@ export const preguntasMaterias = [
     materia: "RedesII",
     url:
       "https://res.cloudinary.com/de6cygu00/image/upload/v1630002168/TestU/Redes1_hwlvyo.jpg",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 162,
@@ -1299,7 +1299,7 @@ export const preguntasMaterias = [
       "Conteste verdadero o falso: En OSPF las áreas que se conectan al área troncal se denominan Stub.",
     respuesta: "Falso",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 163,
@@ -1307,7 +1307,7 @@ export const preguntasMaterias = [
       "El algoritmo de enrutamiento centralizado es conocido también como:",
     respuesta: "Algoritmo de estado enlace",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 164,
@@ -1315,7 +1315,7 @@ export const preguntasMaterias = [
       "Un host para comunicarse con un host remoto debe enviar la información:",
     respuesta: "A su puerta de enlace",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 165,
@@ -1323,7 +1323,7 @@ export const preguntasMaterias = [
       "En su casa Ud está teniendo problemas, los celulares de sus invitados no pueden conectarse a su red, Ud verifica mediante el comando ipconfig en su PC que su gateway tiene la dirección 192.168.1.1, y que su pc tiene una máscara de red de 255.255.255.248. Actualmente tiene conectados 6 dipositivos ya conectados a su red y que tienen conexión a Internet. ¿Qué solución plantearía?",
     respuesta: "Cambiar la máscara de red a 255.255.255.240",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 166,
@@ -1331,21 +1331,21 @@ export const preguntasMaterias = [
       "Si en una empresa que tiene varias sucursales, donde en la sucusal de Quito tiene unos 500 hosts, en Guayaquil tiene unos 600 hosts, en Cuenca tiene unos 250 hosts y en Loja tiene 100 hosts. Si se usa VLSM para crear la subredes ¿ Que máscara se debe usar en la sucursal de Quito?",
     respuesta: "255.255.254.0",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 167,
     pregunta: "Versión de RIP que soporta VLSM:",
     respuesta: "RIP V2",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 168,
     pregunta: "Una ruta remota es aquella que:",
     respuesta: "Es accesible a través de otros routers",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 169,
@@ -1353,21 +1353,21 @@ export const preguntasMaterias = [
       "Si la red OSPF se conecta a un ISP mediante un ASBR, el área en la que se encuentra este router es:",
     respuesta: "Área NSSA",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 170,
     pregunta: "La longitud total del encabezado del paquete IPv4 es:",
     respuesta: "20 bytes",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 171,
     pregunta: "La máscara de subred que corresponde al prefijo /29 es:",
     respuesta: "255.255.255.248",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 172,
@@ -1375,14 +1375,14 @@ export const preguntasMaterias = [
       "Si se ha dividido la red 172.16.0.0 usando una máscara de 255.255.224.0.¿Cuál es la dirección de la 2da subred?",
     respuesta: "",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 173,
     pregunta: "El algoritmo de Dijkstra es un algoritmo:",
     respuesta: "Estado enlace",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 174,
@@ -1392,14 +1392,14 @@ export const preguntasMaterias = [
     url:
       "https://res.cloudinary.com/de6cygu00/image/upload/v1630002168/TestU/Redes1_hwlvyo.jpg",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 175,
     pregunta: "El enrutamiento permite:",
     respuesta: "Conectar un host local con un host remoto",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 176,
@@ -1407,7 +1407,7 @@ export const preguntasMaterias = [
       "Si Ud. tiene que configurar direcciones IP en una empresa, ¿que rango de direcciones debería escoger para asignar a cada equipo en la red de la empresa?",
     respuesta: "172.16.0.0/16",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 177,
@@ -1415,7 +1415,7 @@ export const preguntasMaterias = [
       "Si una subred debe tener 15 hosts. ¿Cuántos bits debemos usar para la porción de hosts?",
     respuesta: "5 bits",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 178,
@@ -1423,7 +1423,7 @@ export const preguntasMaterias = [
       "Ruta que es representada en la tabla de ruteo con 0.0.0.0/0 en IPv4",
     respuesta: "Ruta predeterminada",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 179,
@@ -1431,7 +1431,7 @@ export const preguntasMaterias = [
       "Si en el segmento existen 5 routers, cuantas adyacencias son posibles",
     respuesta: "6",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 180,
@@ -1440,14 +1440,14 @@ export const preguntasMaterias = [
     url:
       "https://res.cloudinary.com/de6cygu00/image/upload/v1630004550/TestU/redes3_xmzflq.jpg",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 181,
     pregunta: "La longitud de una dirección IPv6 es:",
     respuesta: "8 hextetos",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 182,
@@ -1455,14 +1455,14 @@ export const preguntasMaterias = [
       "Si se ha dividido la red 192.168.1.0/16 usando una máscara de 255.255.255.252.¿Cuál es la dirección de broadcast de la 2da subred?",
     respuesta: "192.168.1.7",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 183,
     pregunta: "Algoritmo que no requiere conocer toda la topología de red:",
     respuesta: "Algoritmo de vector distancia",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 184,
@@ -1470,28 +1470,28 @@ export const preguntasMaterias = [
       "La distancia administrativa de las rutas del protocolo RIP es de:",
     respuesta: "120",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 185,
     pregunta: "Un router para poder reenviar o enrutar un paquete debe revisar",
     respuesta: "Tabla de ruteo",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 186,
     pregunta: "OSPF es un protocolo de gateway interno, lo que significa",
     respuesta: "Se usa para comunicarse al interior de un AS",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 187,
     pregunta: "Una dirección MAC o física se compone de:",
     respuesta: "48 bits",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 188,
@@ -1499,7 +1499,7 @@ export const preguntasMaterias = [
       "En el direccionamiento antiguo, la máscara de subred de clase A usada era:",
     respuesta: "255.0.0.0",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 189,
@@ -1507,7 +1507,7 @@ export const preguntasMaterias = [
       "Si la una red tiene prefijo /28 ¿Cuál es el valor del 'número mágico' o rango de subred?",
     respuesta: "16",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 190,
@@ -1515,7 +1515,7 @@ export const preguntasMaterias = [
       "¿Una PC tiene que enviar un paquete a otra PC en la misma subred, Cómo debería ser enviado el paquete ?",
     respuesta: "El paquete debe ser enviado directamente a la otra PC",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 191,
@@ -1844,7 +1844,7 @@ export const preguntasMaterias = [
     pregunta: "El algoritmo de vector distancia es iterativo ya que los nodos ",
     respuesta: "Comparten información hasta que no haya más información",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 232,
@@ -1852,7 +1852,7 @@ export const preguntasMaterias = [
       "Permite Reducir la latencia y carga del procesamiento de paquetes",
     respuesta: "Control lógicamente centralizado",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 233,
@@ -1860,7 +1860,7 @@ export const preguntasMaterias = [
       "Un algoritmo de enrutamiento dinámico requiere de intervención humana para reconfigurar cualquier cambio en la topología",
     respuesta: "Falso",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 234,
@@ -1869,21 +1869,21 @@ export const preguntasMaterias = [
     respuesta:
       "Respuesta todas las opciones. Opciones 1.- Algoritmo de Dijkstra 2.-Algoritmo estado enlace",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 235,
     pregunta: "El algoritmo de vector distancia es también conocido como:",
     respuesta: "Algoritmo de Bellman-Ford",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 236,
     pregunta: "El control lógicamente centralizado se implementa mediante",
     respuesta: "Redes definidas por software",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 237,
@@ -1891,7 +1891,7 @@ export const preguntasMaterias = [
       "El control de cada router ejecuta un protocolo de enrutamiento es  ",
     respuesta: "Control por router",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 238,
@@ -1899,14 +1899,14 @@ export const preguntasMaterias = [
       "El protocolo de enrutamiento RIP usa algoritmo de estado enlace para encontrar la mejor ruta",
     respuesta: "Verdadero",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 239,
     pregunta: "El número máximo de saltos en el protocolo RIP es de ",
     respuesta: "15 saltos",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 240,
@@ -1914,7 +1914,7 @@ export const preguntasMaterias = [
       "Las actualizaciones de rutas en el protocolo RIP se envían en intervalos de  ",
     respuesta: "30 segundos",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 241,
@@ -1922,7 +1922,7 @@ export const preguntasMaterias = [
       "Una ruta estática tiene menos prioridad que una ruta aprendida mediante el protocolo RIP",
     respuesta: "Verdadero",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 242,
@@ -1930,7 +1930,7 @@ export const preguntasMaterias = [
       "Las siglas del nombre del protocolo de enrutamiento RIP significan",
     respuesta: "Routing Information Protocol",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 243,
@@ -1938,7 +1938,7 @@ export const preguntasMaterias = [
       "Horizonte partido en el protocolo RIP significa que nunca se difunde una ruta por la interfaz que se recibió",
     respuesta: "Verdadero",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 244,
@@ -1946,7 +1946,7 @@ export const preguntasMaterias = [
       "Si en el segmento existen 10 routers, cuantas adyacencias son posibles ",
     respuesta: "45",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 245,
@@ -1954,7 +1954,7 @@ export const preguntasMaterias = [
       "Si se requiere que el intercambio de información entre los routers sea encriptada, qué protocolo debería usar ",
     respuesta: "OSPF v3",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 246,
@@ -1962,7 +1962,7 @@ export const preguntasMaterias = [
       "En OSPF de área única todos los routers pretenecen al área de backbone o también conocida como",
     respuesta: "Área 0",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 247,
@@ -1970,7 +1970,7 @@ export const preguntasMaterias = [
       "Paquete OSPF que permite solicitar bases de datos de estado enlace",
     respuesta: "Paquete LSR",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 248,
@@ -1978,14 +1978,14 @@ export const preguntasMaterias = [
       "Si usted debe cibfigurar una red de routers de una empresa que tiene 150 sucursales, que protocolo debería usar",
     respuesta: "OSPF",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 249,
     pregunta: "Paquete OSPF que permite descubrir nuevos vecinos",
     respuesta: "Paquete Hello",
     materia: "RedesII",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
 
   {
@@ -2118,7 +2118,7 @@ export const preguntasMaterias = [
     materia: "FIS",
     url:
       "https://res.cloudinary.com/de6cygu00/image/upload/v1630029960/TestU/FIS01_vmw2pc.jpg",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 267,
@@ -2126,7 +2126,7 @@ export const preguntasMaterias = [
     respuesta:
       "Un enfoque razonable cuando los requisitos están bien definidos.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 268,
@@ -2134,7 +2134,7 @@ export const preguntasMaterias = [
       "¿Cuál de los siguientes diagramas representa la interacción del usuario con el software, pero no dice nada sobre el funcionamiento interno del software?",
     respuesta: "Diagrama de caso de uso",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 269,
@@ -2142,7 +2142,7 @@ export const preguntasMaterias = [
       "El modelo de comportamiento, muestra lo que sucede cuando un sistema responde a un estímulo de su entorno. Estos estímulos pueden ser de dos tipos:",
     respuesta: "Datos y eventos",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 270,
@@ -2150,7 +2150,7 @@ export const preguntasMaterias = [
       "¿Qué fase del RUP se usa para establecer un caso de negocio para el sistema?",
     respuesta: "Inicio",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 271,
@@ -2158,7 +2158,7 @@ export const preguntasMaterias = [
     respuesta:
       "Ninguno de los mencionados. Opciones 1.-Fiabilidad 2.-Portabilidad 3.-Robustez ",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 272,
@@ -2167,7 +2167,7 @@ export const preguntasMaterias = [
     respuesta:
       "Todo lo anterior 1.-Software confiable 2.-Según los requisitos, un software completo 3.-Software rentable (costo/efectivo)",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 273,
@@ -2175,7 +2175,7 @@ export const preguntasMaterias = [
     respuesta:
       "Descubrimiento, clasificación y organización, priorización y negociación, y, especificación de requerimientos",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 274,
@@ -2183,7 +2183,7 @@ export const preguntasMaterias = [
       "Los actores de casos de un caso de uso siempre son personas, nunca dispositivos o sistemas.",
     respuesta: "Falso",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 275,
@@ -2191,14 +2191,14 @@ export const preguntasMaterias = [
     respuesta:
       "Se emplea para explicar como se relaciona el sistema frente a eventos internos y externos",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 276,
     pregunta: "Los modelos estructurales se crean cuando:",
     respuesta: "Se discute y diseña la arquitectura",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 277,
@@ -2206,7 +2206,7 @@ export const preguntasMaterias = [
     respuesta:
       "Escribir en un documento los requerimientos de usuario y del sistema",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 278,
@@ -2217,7 +2217,7 @@ export const preguntasMaterias = [
     url:
       "https://res.cloudinary.com/de6cygu00/image/upload/v1630033363/TestU/FIS02_rcb6bn.jpg",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 279,
@@ -2226,7 +2226,7 @@ export const preguntasMaterias = [
     respuesta:
       "Tanto la confidencialidad como los derechos de propiedad intelectual",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 280,
@@ -2236,7 +2236,7 @@ export const preguntasMaterias = [
     url:
       "https://res.cloudinary.com/de6cygu00/image/upload/v1630033942/TestU/FIS03_mbpl0r.jpg",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 281,
@@ -2244,14 +2244,14 @@ export const preguntasMaterias = [
     respuesta:
       "Una representación abstracta de algo con ciertas propiedades y habilidades.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 282,
     pregunta: "Un diagrama de ___________, está orientado al tiempo",
     respuesta: "Secuencia",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 283,
@@ -2259,7 +2259,7 @@ export const preguntasMaterias = [
     respuesta:
       "Son versiones extendidas de los requerimientos del usuario que se usan como punto de partida para el diseño de un sistema.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 284,
@@ -2267,7 +2267,7 @@ export const preguntasMaterias = [
       "En base a los siguientes enunciados, identifique el tipo de requerimiento derivado de políticas y procedimientos de la organización:",
     respuesta: "",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 285,
@@ -2275,7 +2275,7 @@ export const preguntasMaterias = [
       "¿Se llama a una persona que escribe un programa para ejecutar el hardware de una computadora?",
     respuesta: "Programador",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 286,
@@ -2283,7 +2283,7 @@ export const preguntasMaterias = [
       "Organice la secuencia dada para formar un esquema de prototipo ERS según el estándar IEEE ERS. i. Introducción ii. Prefacio iii Arquitectura del sistema iv. Apéndices v. Definición de requisitos de usuario",
     respuesta: "ii, i, v, iii, iv",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 287,
@@ -2291,7 +2291,7 @@ export const preguntasMaterias = [
     respuesta:
       "Planeación de la administración de requerimientos, administración del cambio en los requerimientos.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 288,
@@ -2299,7 +2299,7 @@ export const preguntasMaterias = [
     respuesta:
       "Más fácil de probar y depurar. Se usa cuando es necesario llevar un producto al mercado temprano",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 289,
@@ -2307,7 +2307,7 @@ export const preguntasMaterias = [
     respuesta:
       "Todos los mencionados  opciones:1.-Software entregado tarde 2.-Software que excede el costo estimado 3.-No confiable",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 290,
@@ -2315,7 +2315,7 @@ export const preguntasMaterias = [
     respuesta:
       "Todas las mencionadas opciones 1.-Reducción costos de adaptación de los requerimientos cambiantes del cliente 2.-Retroalimentación del cliente sobre el trabajo de desarrollo que se realizó 3.-Entrega e implementación rápida del software útil al cliente, aún si no se ha incluido toda la funcionalidad",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 291,
@@ -2324,14 +2324,14 @@ export const preguntasMaterias = [
     respuesta:
       "El sistema estará disponible en todos los restaurantes durante las horas de trabajo normales (lunes a viernes, de 12:00 a 22:30).",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 292,
     pregunta: "Un diagrama de secuencia:",
     respuesta: "Describe el comportamiento en un solo caso de uso.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 293,
@@ -2339,7 +2339,7 @@ export const preguntasMaterias = [
       "En el desarrollo ágil, es más importante crear software que satisfaga las necesidades de los clientes que preocuparse por las características que podrían ser necesarias en el futuro.",
     respuesta: "Verdadero",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 294,
@@ -2347,7 +2347,7 @@ export const preguntasMaterias = [
     respuesta:
       "Todas las mencionadas Opciones: 1.-Una colección de personas, máquinas y métodos organizados para cumplir un conjunto de funciones. 2.-Un todo integrado que se compone de diversas estructuras y subfunciones especializadas que interactúan entre sí. 3.-Un grupo de subsistemas unidos por alguna interacción o interdependencia que realiza muchas tareas, pero funciona como una sola unidad",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 295,
@@ -2355,7 +2355,7 @@ export const preguntasMaterias = [
     respuesta:
       "Afectan más a la arquitectura global del sistema, que a componentes individuales.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 296,
@@ -2363,7 +2363,7 @@ export const preguntasMaterias = [
       "¿Cuáles de estas actividades de ingeniería de software no forman parte de los procesos de software?",
     respuesta: "Dependencia de software",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 297,
@@ -2371,14 +2371,14 @@ export const preguntasMaterias = [
       "En qué se diferencia el desarrollo impulsado por un plan del desarrollo ágil?",
     respuesta: "La iteración ocurre dentro de las actividades.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 298,
     pregunta: "Un modelo es:",
     respuesta: "Una abstracción del sistema a construir",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 299,
@@ -2387,7 +2387,7 @@ export const preguntasMaterias = [
     respuesta:
       "Todos los mencionados opciones de respuesta 1.-Acceso no autorizado a material informático 2.-Modificación no autorizada de material informático. 3.-Difusión de virus u otro malware",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 300,
@@ -2395,14 +2395,14 @@ export const preguntasMaterias = [
       "Explique qué se entiende por 'PRODUCTO' con referencia a uno de los ocho principios según el Código de ética de ACM / IEEE",
     respuesta: "",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 301,
     pregunta: "¿Por qué los desarrolladores deben leer casos de uso?",
     respuesta: "Para comprender el sistema",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 302,
@@ -2410,7 +2410,7 @@ export const preguntasMaterias = [
       "Los modelos estructurales muestran la organización de un sistema en términos de:",
     respuesta: "",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 303,
@@ -2418,14 +2418,14 @@ export const preguntasMaterias = [
     respuesta:
       "Proceso que muestra si un sistema cumple con las especificaciones como con las expectativas del cliente",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 304,
     pregunta: "¿Cuál de las siguientes no una característica de un software?",
     respuesta: "",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 305,
@@ -2433,7 +2433,7 @@ export const preguntasMaterias = [
       "El análisis de componentes, la modificación de requerimientos, y el diseño del sistema con reutilización son etapas de",
     respuesta: "Proceso unificado rational, IBM",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 306,
@@ -2442,7 +2442,7 @@ export const preguntasMaterias = [
     respuesta:
       "Combinan el modelo de dominio de aplicación y dominio de dominio de solución en un solo modelo.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 307,
@@ -2451,7 +2451,7 @@ export const preguntasMaterias = [
     respuesta:
       "La programación es una parte del proceso, la ingeniería de software abarca todas las etapas del proceso, desde identificar una problemática, las necesidades, el diseño la programación y la validación del sistema.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 308,
@@ -2459,7 +2459,7 @@ export const preguntasMaterias = [
       "En la organización de roles en un proyecto de software ¿cuál de los siguientes esun ejemplo de un rol de Desarrollador?",
     respuesta: "Analista",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 309,
@@ -2467,7 +2467,7 @@ export const preguntasMaterias = [
       "En una lista de requerimientos se establece que 'el sistema debe permitir elregistro de libros, revistas y trabajos de tesis', este es un requerimiento funcional.",
     respuesta: "Verdadero",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 310,
@@ -2475,7 +2475,7 @@ export const preguntasMaterias = [
       "La ingeniería de software es considerada una actividad de resolución deproblemas, de acuerdo a esto ¿cuál de las siguientes acciones está acorde conesta habilidad?",
     respuesta: "Aplicar un método básico de ingeniería.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 311,
@@ -2483,7 +2483,7 @@ export const preguntasMaterias = [
       "¿Cuál de los siguientes productos de trabajo pertenece a la categoría deentregable?",
     respuesta: "Manual de usuario",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 312,
@@ -2491,7 +2491,7 @@ export const preguntasMaterias = [
       "De acuerdo a las definiciones dadas sobre lo que es el software ¿Cuál de lassiguientes alternativas incluye todos los elementos que conforman el software?",
     respuesta: "Es conjunto de programas y documentación asociada",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 313,
@@ -2499,7 +2499,7 @@ export const preguntasMaterias = [
       "De acuerdo a lo estudiado, la ingeniería de software es una actividad demodelado ¿qué problema resuelve esta actividad en el proceso de ingeniería desoftware?",
     respuesta: "La complejidad de los sistemas.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 314,
@@ -2507,7 +2507,7 @@ export const preguntasMaterias = [
       "Cuando en el modelado hablamos del 'modelo del dominio de aplicación' nosreferimos a cuál de los siguientes tipos de elementos.",
     respuesta: "Elementos del mundo real",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 315,
@@ -2515,7 +2515,7 @@ export const preguntasMaterias = [
       "En los roles comunes que las personas asumen en un proyecto de desarrollo desoftware ¿cuál de los siguientes roles proporciona los criterios de éxito delproyecto?",
     respuesta: "El cliente",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 316,
@@ -2523,7 +2523,7 @@ export const preguntasMaterias = [
       "¿Cuál de los siguientes factores tuvo mayor incidencia en el aparecimiento de la denominada crisis del software?",
     respuesta: "La complejidad de los sistemas de tiempo compartido",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 317,
@@ -2532,7 +2532,7 @@ export const preguntasMaterias = [
     respuesta:
       "El reconocimiento OCR debe funcionar sobre diferentes formatos de archivos",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 318,
@@ -2541,7 +2541,7 @@ export const preguntasMaterias = [
     respuesta:
       "Las ciencias de la computación se enfocan en teoría y fundamentos, en tanto que la ingeniería de software estudia métodos y técnicas de desarrollo de software.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 319,
@@ -2549,7 +2549,7 @@ export const preguntasMaterias = [
       "¿Cuál de los siguientes productos de trabajo pertenece a la categoría de entregable?",
     respuesta: "Manual de usuario",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 320,
@@ -2557,7 +2557,7 @@ export const preguntasMaterias = [
       "Un requerimiento de software tiene una connotación más amplia e incluye varios requerimientos de usuario.",
     respuesta: "Falso",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 321,
@@ -2566,7 +2566,7 @@ export const preguntasMaterias = [
     respuesta:
       "Combinan el modelo de dominio de aplicación y dominio de dominio de solución en un solo modelo.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 322,
@@ -2574,7 +2574,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-Equipo de proyecto (Team) 2.-Propietario del producto (Product Owner) 3.-Scrum Master",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 323,
@@ -2582,7 +2582,7 @@ export const preguntasMaterias = [
       "En un modelo de procesos iterativo las entregas del producto se hacen al finalizarcada iteración",
     respuesta: "Falso",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 324,
@@ -2591,7 +2591,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-Predictivo o Cascada--->Modelo de proceso   2.-SCRUM----> Metodología   3.-Iterativo---> Modelo de proceso 4.-XP--->Metodologia 5.-RUP---> Metodologia ",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 325,
@@ -2599,14 +2599,14 @@ export const preguntasMaterias = [
       "Se le propone trabajar en un proyecto para implementar matrículas en loscolegios fiscales, el Ministerio de Educación tiene establecido un proceso dematrículas claramente documentado y le asigna un presupuesto fijo que debejustificar durante el desarrollo, además ha establecido un plazo de 10 meses para su desarrollo. La aplicación debe contar con componentes reutilizables en otrosmódulos y debe cumplir con todas las regulaciones de ley. ¿Cuál de las siguientes metodologías de desarrollo de es la recomendable paraeste trabajo?",
     respuesta: "El proceso unificado Rational (RUP)",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 326,
     pregunta: "Seleccione las fases del proceso unificado de desarrollo (RUP)",
     respuesta: "Inicio,Elaboración, Construcción, Transición.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 327,
@@ -2614,7 +2614,7 @@ export const preguntasMaterias = [
       "En la metodología SCRUM, se producen varias reuniones. ¿Cuál de ellas sedesarrolla exclusivamente entre el equipo y el Scrum Master, sin participación delProduct Owner?",
     respuesta: "Sprint Retrospective",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 328,
@@ -2622,7 +2622,7 @@ export const preguntasMaterias = [
       "A pesar de basarse en un proceso iterativo e incremental, a RUP no se loconsidera un modelo ágil debido a su fuerte enfoque en la planificación y documentación.",
     respuesta: "Verdadero",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 329,
@@ -2630,7 +2630,7 @@ export const preguntasMaterias = [
       "Por el hecho de ser una metodología ágil, SCRUM puede considerarse como unametodología que no tiene un énfasis muy fuerte en la calidad.",
     respuesta: "Falso",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 330,
@@ -2639,7 +2639,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.- El producto resultante se lo ve al finalizar el proyecto 2.-Se planifica todo el proyecto al inicio 3.-Se pasa una sola vez por cada grupo de actividades",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 331,
@@ -2648,7 +2648,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-Reducen el riesgo en etapas tempranas del proyecto 2.-Utilizan ciclos de entrega en iteraciones de duración fija 3.-Realizan entregas de producto continuas en ciclos cortos de tiempo",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 332,
@@ -2656,7 +2656,7 @@ export const preguntasMaterias = [
       "Seleccione las herramientas/técnicas que se usan para determinar los tiempos deculminación de las actividades.",
     respuesta: "1.-Diagrama de Gantt 2.-Diagrama Pert",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 333,
@@ -2664,7 +2664,7 @@ export const preguntasMaterias = [
       "En un cronograma la ruta critica establece la duración del proyecto",
     respuesta: "Verdadero",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 334,
@@ -2672,7 +2672,7 @@ export const preguntasMaterias = [
       "¿Cuál de las siguientes alternativas corresponde al alcance del producto?",
     respuesta: "conjunto de características y funciones",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 335,
@@ -2680,7 +2680,7 @@ export const preguntasMaterias = [
       "Los roles de denominados cruzados cumplen funciones de organización y ejecucióndel proyecto.",
     respuesta: "Falso",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 336,
@@ -2688,7 +2688,7 @@ export const preguntasMaterias = [
       "En un diagrama Pert ¿Cuál de los siguientes elementos del cronograma se puedeapreciar con mayor claridad?",
     respuesta: "La dependencia entre actividades",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 337,
@@ -2696,7 +2696,7 @@ export const preguntasMaterias = [
       "En la terminología de proyectos un producto de trabajo adopta el nombre deentregable cuando:",
     respuesta: "Se destina al cliente",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 338,
@@ -2704,7 +2704,7 @@ export const preguntasMaterias = [
       "En el esquema de fase de un proyecto, la etapa de Definición termina cuando:",
     respuesta: "Se ha definido el alcance",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 339,
@@ -2712,7 +2712,7 @@ export const preguntasMaterias = [
       "Según el Project Management Institute un proyecto es un esfuerzo_____que se lleva a cabo para_____un______,servicio o resultado____.",
     respuesta: "temporal  ,crear, producto, único",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 340,
@@ -2720,7 +2720,7 @@ export const preguntasMaterias = [
       "De las siguientes herramientas para levantar requerimientos, marque aquellasque se aplican a grupos de personas al mismo tiempo.",
     respuesta: "Talleres, Encuesta",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 341,
@@ -2728,7 +2728,7 @@ export const preguntasMaterias = [
       "¿Cuál de los siguientes tipos de requerimientos puede clasificarse enrequerimientos funcionales y no funcionales?",
     respuesta: "Requerimientos del sistema.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 342,
@@ -2736,7 +2736,7 @@ export const preguntasMaterias = [
       "Los requerimientos de usuario se traducen en varios requerimientos del sistema ypueden incluir requerimientos funcionales y no funcionales.",
     respuesta: "Verdadero",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 343,
@@ -2744,7 +2744,7 @@ export const preguntasMaterias = [
       "Los requerimientos funcionales son los que establecen los criterios de calidad delsistema.",
     respuesta: "Falso",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 344,
@@ -2752,7 +2752,7 @@ export const preguntasMaterias = [
       "Si se especifica que un sistema debe permitir el 'procesamiento de 1.000registros en un minuto' estamos hablando de un requerimiento:",
     respuesta: "No funcional",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 345,
@@ -2761,7 +2761,7 @@ export const preguntasMaterias = [
     respuesta:
       "1.-El sistema debe garantizar que nadie pueda acceder a la información de los datos de un cliente a no ser que este realizando un pedido. 2.-El tiempo de respuesta para ubicar la localización de un cliente debe ser menor a 10 segundos",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 346,
@@ -2769,7 +2769,7 @@ export const preguntasMaterias = [
       "Si se plantea como requerimiento que 'el sistema debe solicitar doble verificaciónal momento de ingresar a la cuenta del cliente', este se considera comorequerimiento no funcional.",
     respuesta: "Verdadero",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 347,
@@ -2777,7 +2777,7 @@ export const preguntasMaterias = [
       "Cuando se habla de requerimientos es correcto decir que 'lo que el clientesolicita, no siempre es lo que necesita' ¿Cuál de las siguientes alternativas es la causa más probable?",
     respuesta: "La ambigüedad del lenguaje.",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 348,
@@ -2785,7 +2785,7 @@ export const preguntasMaterias = [
       "Los requerimiento funcionales tiene impacto en las decisiones de diseño de laarquitectura del sistema.",
     respuesta: "Falso",
     materia: "FIS",
-    bimestre: "Primer",
+    bimestre: "Primero",
   },
   {
     id: 349,
@@ -6187,5 +6187,340 @@ export const preguntasMaterias = [
     respuesta: "Verdadero",
     materia: "PlanificacionEst",
     bimestre: "Primero",
+  },
+  {
+    id: 808,
+    pregunta:
+      "El aseguramiento de calidad según la norma ISO 9000, se define como:",
+    respuesta:
+      "Parte de la gestión de la calidad orientada a proporcionar confianza en que se cumplirán los requisitos de calidad.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 809,
+    pregunta:
+      "La calidad de los sistemas de información (SI) está condicionada por:",
+    respuesta:
+      "La calidad de las personas, la calidad de los proyectos y la calidad de los sistemas informáticos",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 810,
+    pregunta:
+      "El estándar IEEE 730 se encuentra organizado de forma que proporciona lineamientos acerca de:",
+    respuesta:
+      "Como evaluar el proceso de desarrollo de software, evaluar la conformidad a los procesos software y evaluar la efectividad de los procesos software",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 811,
+    pregunta: "La gestión de calidad tiene como propósito alcanzar:",
+    respuesta: "La calidad deseada.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 812,
+    pregunta:
+      "Un aspecto clave para garantizar el éxito de un programa de gestión del conocimiento es",
+    respuesta: "Elegir un modelo de gestión del conocimiento adecuado.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 813,
+    pregunta:
+      "Los 5 tipos de procesos para gestión de proyectos propuestas por PMBOK son:",
+    respuesta:
+      "Procesos de iniciación, procesos de planificación, procesos de ejecución, procesos de control y procesos de cierre.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 814,
+    pregunta: "Las 3 perspectivas del origen de la calidad son:",
+    respuesta: "Calidad realizada, calidad planificada y la calidad necesaria.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 815,
+    pregunta:
+      "Los tres factores que posibilitan el proceso de implementación de la estrategia de gestión de conocimiento en organizaciones software, son",
+    respuesta:
+      "La tecnología con la que cuente la organización, el liderazgo y la cultura organizacional.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 846,
+    pregunta:
+      "El proceso de gestionar el conocimiento del proyecto, según el PMBok se encuentra en el grupo de:",
+    respuesta: "Procesos de ejecución",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 846,
+    pregunta: "Dos de los principios en los que se basa Lean, son:",
+    respuesta: "Calidad perfecta a la primera y minimización del despilfarro.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 847,
+    pregunta:
+      "Algunas de las actividades de nivel de aplicación de conocimiento, son:",
+    respuesta:
+      "Inteligencia competitiva, mejores prácticas y desarrollo de productos.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 848,
+    pregunta: "La gestión de proyectos se enfoca en:",
+    respuesta:
+      "Aplicar conocimientos, habilidades, técnicas y herramientas para cumplir los requisitos del mismo.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 849,
+    pregunta: "La norma ISO 9004, proporciona:",
+    respuesta: "Guía para el éxito sostenidopara la gestión de calidad.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 850,
+    pregunta:
+      "La herramienta REACT (RationalE Annotations in ChaT messages) para gestión del conocimiento en ingeniería de software esta orientada a:",
+    respuesta:
+      "Apoyar a los desarrolladores a capturar, cuestionar alternativas, argumentos a favor, en contra y decisiones a partir de los mensajes de chat",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 851,
+    pregunta:
+      "Los procesos de iniciación de un proyecto, en PMBOK estan relacionados con:",
+    respuesta:
+      "Aquellos procesos realizados para definir un nuevo proyecto o una nueva fase de un proyecto ya existente.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 852,
+    pregunta:
+      "Las dos primeras etapas de la evolución de la calidad según Menéndez, son:",
+    respuesta: "Etapa artesanal y etapa de la industrialización.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 853,
+    pregunta:
+      "La factoría de la experiencia en el modelo QIP es la organización que soporta la reutilización del aprendizaje colectivo y la experiencia, a través de:",
+    respuesta: "Los clusters de competencias o paquetes de experiencias.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 852,
+    pregunta:
+      "Los procesos de planificación de un proyecto, en PMBOK estan relacionados con:",
+    respuesta:
+      "Aquellos procesos requeridos para establecer el alcance del proyecto y definir el curso de acción necesario para alcanzar los objetivos del proyecto",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 853,
+    pregunta: "Las siglas TQM son acrónimo de:",
+    respuesta: "Gestión de Calidad Tota",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 854,
+    pregunta:
+      "Una arquitectura de gestión del conocimiento para proyectos software proporciona:",
+    respuesta:
+      "Un nexo desde las actividades de producción diarias, hasta las iniciativas de mejora y objetivos de negocio.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 855,
+    pregunta:
+      "Uno de los apartados a incluir como contenido mínimo en el plan de SQA es:",
+    respuesta: "Propósito y alcance",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 856,
+    pregunta: "La estrategia de Lean surge en la:",
+    respuesta: "La empresa.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 857,
+    pregunta:
+      "En el modelo gestión del conocimiento Dyba los factores facilitadores:",
+    respuesta:
+      "Reflejan las condiciones que facilitan la creación de conocimiento y mejora del proceso software",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 858,
+    pregunta:
+      "El proceso de planificar la calidad como soporte a la gestión de la calidad de los proyectos, se enfoca en:",
+    respuesta: "Definir los requisitos de calidad que el trabajo debe tener",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 859,
+    pregunta:
+      "La familia de normas ISO 9000 para la calidad, está conformada por",
+    respuesta: "ISO 9000, ISO 9001 e ISO 9004",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 860,
+    pregunta:
+      "Los dos ciclos de control que implementa el modelo QIP para la gestión del conocimiento en proyectos de software, proporcionan:",
+    respuesta:
+      "Retroalimentación al proyecto y retroalimentación a la organización",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 861,
+    pregunta:
+      "La gestión de proyectos el PMBOK define 49 procesos organizados en:",
+    respuesta: "5 grupos de procesos.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 862,
+    pregunta: "La fase analizar de DMAIC se enfoca en",
+    respuesta:
+      "Entener de los datos recopilados en la medición, para determinar la causa de la desviación del proceso, proponer posibles soluciones.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 863,
+    pregunta:
+      "La herramienta DPMTool (Distributed Process Management Tool) para gestión del conocimiento en ingeniería de software esta orientada a:",
+    respuesta:
+      "Desarrollo global permite la creación, almacenamiento, recuperación, transmisión y reutilización de conocimiento para la toma de decisiones",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 864,
+    pregunta: "El estándar IEEE 730 para SQAP, es aplicable a:",
+    respuesta: "Proyectos críticos",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 865,
+    pregunta: "La fase definir de DMAIC se enfoca en:",
+    respuesta:
+      "Comprender completamente el problema, para determinar el proceso a mejorar.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 866,
+    pregunta:
+      "La gestión del conocimiento en el contexto del desarrollo de software permite:",
+    respuesta: "Producir mejor software, de una forma más rápida y económica.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 867,
+    pregunta:
+      "Algunas de las actividades propuestas en el plan de aseguramiento de calidad del software según la norma IEEE 730 para el aseguramiento de proceso, incluyen:",
+    respuesta: "Evaluar conformidad de los entornos y medir los procesos",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 868,
+    pregunta:
+      "El aseguramiento de calidad según la norma ISO 9000, se define como:",
+    respuesta:
+      "Parte de la gestión de la calidad orientada a proporcionar confianza en que se cumplirán los requisitos de calidad.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 869,
+    pregunta:
+      "La herramienta PAKME (Process-based Architecture Knowledge Management Environment) para gestión del conocimiento en ingeniería de software esta orientada a:",
+    respuesta:
+      "El proceso de la arquitectura de software, basada en arquitectura web y orientada al soporte",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 870,
+    pregunta: "El estándar IEEE 730 proporciona:",
+    respuesta:
+      "Los requisitos mínimos aceptables para la preparación y el contenido de los planes de aseguramiento de calidad del software SQAP",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 871,
+    pregunta:
+      "Las dos etapas finales de la evolución de la calidad según Menéndez, son:",
+    respuesta: "Etapa de control en diseño y etapa de mejora continua.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 872,
+    pregunta: "Etapa de control en diseño y etapa de mejora continua.",
+    respuesta:
+      "La calidad del software, la calidad de las plataformas y la calidad de los datos.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 873,
+    pregunta:
+      "Algunas de las actividades propuestas en el plan de aseguramiento de calidad del software según la norma IEEE 730 para la implementación de procesos incluyen:",
+    respuesta: "Documentar y ejecutar el plan SQA",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 875,
+    pregunta:
+      "El asegurar los procesos operativos y no operativos la calidad ha evolucionado desde:",
+    respuesta: "El control de calidad hasta la calidad total.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 864,
+    pregunta: "",
+    respuesta: "",
+    materia: "",
+    bimestre: "",
   },
 ];

@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { AdmBDD } from "../components/pages/AdmBDD";
 import DesarrolloWeb from "../components/pages/DesarrolloWeb";
 import FundamentosIngenieria from "../components/pages/FundamentosIngenieria";
+import GestionCalidad from "../components/pages/GestionCalidad";
 import HCI from "../components/pages/HCI";
 import Home from "../components/pages/Home";
 import Ing_Requisitos from "../components/pages/Ing_Requisitos";
@@ -23,6 +24,7 @@ const AppRouter = () => {
           <Route exact path="/ADMBDD" component={AdmBDD} />
           <Route exact path="/Ing_Requisitos" component={Ing_Requisitos} />
           <Route exact path="/DesarrolloWeb" component={DesarrolloWeb} />
+          <Route exact path="/GestionCalidad" component={GestionCalidad} />
           <Route
             exact
             path={"/PlanificacionEstrategica"}

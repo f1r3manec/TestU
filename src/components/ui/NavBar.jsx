@@ -46,6 +46,9 @@ const NavBar = () => {
             <NavLink className="navbar-item" to="/PlanificacionEstrategica">
               Planificacion Estrategica
             </NavLink>
+            <NavLink className="navbar-item" to="/GestionCalidad">
+              Gestión Calidad Software
+            </NavLink>
           </div>
         </div>
       </nav>
