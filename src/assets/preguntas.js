@@ -5966,4 +5966,72 @@ export const preguntasMaterias = [
     materia: "PlanificacionEst",
     bimestre: "Primero",
   },
+  {
+    id: 781,
+    pregunta:
+      "Uno de los principales retos a los cuales se enfrentan las organizaciones es:",
+    respuesta: "La velocidad y la capacidad de respuesta.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 782,
+    pregunta:
+      "El hecho de que la digitalización sea e! paso correcto para una empresa depende de la: respuesta a esta misma pregunta. Si la digitalización mejora la forma en que se crea valor para los clientes o la hace única o sostenible, ,entonces la respuesta es sí. Y si no es así, la respuesta es no, o al menos no todavía. Esto también se aplica a:",
+    respuesta:
+      "La evaluación de cualquier tecnología particular utilizada o forma de digitalizarse 1 gUiando así a �a empresa a decidir qué tecnologías adoptar y cómo usadas.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 783,
+    pregunta:
+      "A nivel de actitudes y formas de trabajo, en la cultura digital los equipos de trabajo se desenvuelven en:",
+    respuesta: "Comunidades integradas y multifuncionales.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 784,
+    pregunta:
+      "A nivel de actitudes y formas de trabajo, en la cultura digital la progresión profesional se desenvuelve dentro de:",
+    respuesta:
+      "Caminos rápidos e impr,edecibles definidos por el avance tecnológico.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 785,
+    pregunta: "La estrategia a nivel funcional:",
+    respuesta:
+      "Implica la torna de decisiones a nivel operativo con respecto a áreas particulares en la organrzación.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 786,
+    pregunta:
+      "Los conceptos básicos involucrados en una estrategia de transformación digital incluyen el análisis de las necesidades prnpias de una empresa, así como su cultura empresarial. Sin embargo, la transformación no solo pu,ede ser impulsada por TI; debe estar completamente alineado con la estrategia general, ios objetivos, la misión y el futuro planificado de la organización. La estrategia digital debe, por tanto, apoyar la estrategia corporativa, funcional y empresarial para alinearse con la visión global de la empresa 1 lo que implica analizar el mercado, personalizar la experiencia del cliente y evaluar,la situación actual y el ajuste de la infraestructura de la empresa.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 787,
+    pregunta:
+      "Los conceptos básicos involucrados en una estrategia de transformación digital incluyen el análisis de las necesidades prnpias de una empresa, así como su cultura empresarial. Sin embargo, la transformación no solo pu,ede ser impulsada por TI; debe estar completamente alineado con la estrategia general, ios objetivos, la misión y el futuro planificado de la organización. La estrategia digital debe, por tanto, apoyar la estrategia corporativa, funcional y empresarial para alinearse con la visión global de la empresa 1 lo que implica analizar el mercado, personalizar la experiencia del cliente y evaluar,la situación actual y el ajuste de la infraestructura de la empresa.",
+    respuesta: "Verdadero",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
+  {
+    id: 788,
+    pregunta:
+      "La planificación estratégiica puede sufrir cierios errores comunes, y estos pueden deberse a una amplia gama de factores, incluido el personal, la ejecución estratégica, la falta de compromiso u otros problemas más profundos dentro de la empresa. De los mencionado a continuación indique cual está, relacionado con la falta de compromiso:",
+    respuesta:
+      "Las empresas hacen p,!anes solo porque la sabidurí,a o las prácticas predominantes lo exigen.",
+    materia: "PlanificacionEst",
+    bimestre: "Primero",
+  },
 ];
