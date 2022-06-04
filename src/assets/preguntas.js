@@ -4885,8 +4885,9 @@ export const preguntasMaterias = [
   },
   {
     id: 632,
-    pregunta: "En RUP, son los resultados tangibles del proyecto:",
-    respuesta: "Artefactos",
+    pregunta:
+      "¿Los resultados estadísticos indican que los proyectos más pequeños y que se desarrollan bajo un enfoque ágil son más exitosos?",
+    respuesta: "Verdadero",
     materia: "MetodologiasD",
     bimestre: "Primero",
   },
@@ -5054,12 +5055,467 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: "",
-    pregunta: "",
-    respuesta: "",
-    materia: "",
-    bimestre: "",
+    id: 654,
+    pregunta:
+      "En este modelo se refleja el enfoque sistemático y secuencial o lineal, esto quiere decir que se cambia de actividad solo cuando se han conseguido los objetivos de la anterior.",
+    respuesta: "Modelo en cascada",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
   },
+  {
+    id: 655,
+    pregunta:
+      "Permite construir sistemas complejos en un tiempo razonable y con alta calidad:",
+    respuesta: "Ingeniería de software",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 656,
+    pregunta:
+      "La revisión y la mejora son las principales características del modelo:",
+    respuesta: "Iterativo",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 657,
+    pregunta: `Uno de los valores del manifiesto ágil dice "_____________ y ____________ sobre los procesos y herramientas" .`,
+    respuesta: "Individuos, interacciones",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 658,
+    pregunta:
+      "¿Si todos los actores involucrados en el desarrollo de software siguieran los principios de la ingeniería de software, se eliminarían las dificultades de este proceso?",
+    respuesta: "Verdadero",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 659,
+    pregunta: "¿Cuál de las siguientes afirmaciones no es cierta?",
+    respuesta:
+      "Una actividad contiene fases. --Opciones de respuesta  Una fase se compone de actividades. Una fase implica tareas --Una actividad se compone de tareas relacionadas.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 660,
+    pregunta:
+      "¿El Proceso Racional Unificado se adapta de mejor manera a las necesidades dinámicas y cambiantes de los clientes?",
+    respuesta: "falso",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 661,
+    pregunta:
+      "Seleccione cuál de las siguientes afirmaciones es correcta acerca de la ingeniería de software:",
+    respuesta:
+      "Es una disciplina que se orienta al mantenimiento de un producto software.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 662,
+    pregunta:
+      "La exigencia actual en una empresa, con respecto al software, se ha convertido en una necesidad imperativa, lo que ha llevado a que ese requerimiento demande ser mejor, más barato y que se lo entregue en plazos cada vez más cortos. ¿Qué tipo de proceso o método se apega a esta necesidad?",
+    respuesta: "Procesos Agiles",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 663,
+    pregunta:
+      "En este tipo de procesos, la planificación es incremental y puede ser cambiante de acuerdo con las necesidades del cliente:",
+    respuesta: "Procesos Agiles",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 664,
+    pregunta:
+      "¿Cuál de las siguientes opciones es característica de un software heredado?",
+    respuesta:
+      "Resultan costosos de mantener y tienen alto riesgo en su evolución.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 665,
+    pregunta:
+      "Un centro educativo desea implementar un sistema para el préstamo de libros a sus alumnos. El sistema permitirá crear y eliminar libros, alumnos y usuarios del sistema. Los alumnos pueden tener en préstamo simultáneamente un total de tres libros a lo sumo, y cada libro lo pueden tener en préstamo durante un plazo de 14 días. Si se supera dicho plazo el alumno tendrá una sanción equivalente a la suspensión del servicio de préstamo en tantos días como se haya superado el plazo de devolución, y en caso de pérdida, además con el costo del libro. ¿Cuál sería la descripción de la historia de usuario para realizar un préstamo de libro?",
+    respuesta:
+      "Como bibliotecario quiero registrar el préstamo de un libro a un alumno para que pueda llevárselo.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 666,
+    pregunta:
+      "¿Todo producto software que se desarrolle sigue una misma metodología de desarrollo?",
+    respuesta: "Falso",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 667,
+    pregunta:
+      "¿Cuál de los modelos tradicionales, está centrado en la arquitectura?",
+    respuesta: "RUP",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 668,
+    pregunta:
+      "La ingeniería de software es una disciplina que se dedica al estudio de:",
+    respuesta: "Desarrollo, operación y mantenimiento de software.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 669,
+    pregunta:
+      "¿Cuál de las siguientes opciones se considera una de las características del modelo en cascada?",
+    respuesta:
+      "No se puede avanzar a la siguiente fase sino hasta que termine la fase previa.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 670,
+    pregunta:
+      "¿Los procesos de la ingeniería de software organizan el desarrollo de un producto software en distintas fases o etapas?",
+    respuesta: "Verdadero",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 671,
+    pregunta: "Un ejemplo de una tarea es:",
+    respuesta: "Definir una historia de Usuario",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 672,
+    pregunta: "Una historia de usuario puede ser fácilmente estimable sí:",
+    respuesta:
+      "Existe un alto grado de independencia entre las historias de usuario.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 673,
+    pregunta:
+      "Dentro de la práctica de la ingeniería de software, la ejecución del plan se refiere a:",
+    respuesta: "Generación del código",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 674,
+    pregunta:
+      "¿El principal objetivo del modelo iterativo es reducir el tiempo de desarrollo al dividir el proyecto en intervalos incrementales superpuestos?",
+    respuesta: "Falso",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 675,
+    pregunta: "Indique cuál de las siguientes afirmaciones es cierta:",
+    respuesta:
+      "Las historias de usuario permiten expresar requisitos no funcionales.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 676,
+    pregunta:
+      "Indique cuál de las siguientes afirmaciones NO se contempla en los 12 principios ágiles:",
+    respuesta:
+      "Los cambios en los requisitos a lo largo del proyecto no son bien recibidos.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 677,
+    pregunta:
+      "¿Cuáles son factores esenciales para que una organización/empresa decida si desarrolla su propio software o lo compra?",
+    respuesta: "Factor técnico y Factor económico",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 678,
+    pregunta:
+      "El Manifiesto Ágil proporciona la filosofía, y una metodología ágil proporciona un conjunto de prácticas diarias que se alinean con esa filosofía.",
+    respuesta: "Verdadero",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 679,
+    pregunta:
+      "Un centro educativo desea implementar un sistema para el préstamo de libros a sus alumnos. El sistema permitirá crear y eliminar libros, alumnos y usuarios del sistema. Los alumnos pueden tener en préstamo simultáneamente un total de tres libros a lo sumo, y cada libro lo pueden tener en préstamo durante un plazo de 14 días. Si se supera dicho plazo el alumno tendrá una sanción equivalente a la suspensión del servicio de préstamo en tantos días como se haya superado el plazo de devolución, y en caso de pérdida, además con el costo del libro. ¿Cuál sería un criterio de aceptación para la historia de usuario sobre realizar un préstamo de libro?",
+    respuesta:
+      "Intentar registrar el préstamo para un libro y/o alumno inexistentes y comprobar que se produce un error.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 680,
+    pregunta: "El principio de abstracción indica que:",
+    respuesta:
+      "Se identifican los aspectos relevantes de un problema ignorando los detalles.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 681,
+    pregunta:
+      "¿Las metodologías ágiles son reconocidas ampliamente por su orientación a la planeación?",
+    respuesta: "Falso",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 682,
+    pregunta:
+      "¿Cómo se las conoce a las cuatro actividades dentro de un proceso de software?",
+    respuesta:
+      "Especificación, desarrollo, validación y evolución de software.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 683,
+    pregunta:
+      "Los sectores identificados en un proceso de software como: establecimiento de objetivos, valoración y reducción del riesgo, desarrollo y validación, planeación corresponden al:",
+    respuesta: "Modelo Espiral",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 685,
+    pregunta: `¿Es posible considerar el software como un "mediador" que permite establecer la comunicación entre un usuario y una máquina?`,
+    respuesta: "Verdadero",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 686,
+    pregunta:
+      "¿El proceso de desarrollo de software es como seguir una receta de principio a fin?",
+    respuesta: "falso",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 687,
+    pregunta: "¿Qué NO es agilidad en un contexto de desarrollo de software 7",
+    respuesta: "Capacidad de planificaci[on anticipadast",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 688,
+    pregunta:
+      "Imagine que escribir un ensayo es una actividad de ingeniería de software. Si el ensayo completo es el producto del trabajo de salida. ¿Cuáles serían los mejores productos del trabajo de entrada?",
+    respuesta: "Un esquema y notas previamente generadas sobre el tema",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 689,
+    pregunta:
+      "Dentro de la práctica de la ingeniería de software, el examinar la exactitud del resultado se refiere a:",
+    respuesta: "Probar y asegurar la calidad",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 690,
+    pregunta: "¿Cuál NO es una característica del movimiento ágil?",
+    respuesta: "No es colaborativo",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 691,
+    pregunta: "Qué es un algoritmo",
+    respuesta:
+      "Es una serie ordenada de instrucciones bien definidas, que llevan a la solución de un determinado problema.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 692,
+    pregunta:
+      "¿Cuál es la metodología o marco ágil más utilizado para el desarrollo de software?",
+    respuesta: "SCRUM",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 693,
+    pregunta:
+      "Las metodologías del desarrollo de software son sistemáticas, predecibles y _____",
+    respuesta: "Repetibles",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 694,
+    pregunta:
+      "¿La crisis del software ha sido superada totalmente durante el paso de los años?",
+    respuesta: "Falso",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 695,
+    pregunta:
+      "Si los requisitos se conocen muy bien al inicio del proyecto y se sabe que no son cambiantes, ¿es posible optar por una metodología tradicional?",
+    respuesta: "Verdadero",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 696,
+    pregunta: "¿Cuál de las siguientes afirmaciones no es cierta?",
+    respuesta: "Una actividad contiene fases.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 697,
+    pregunta:
+      "¿El crecimiento del software ha evolucionado de acuerdo a la extensión de las TIC?",
+    respuesta: "Verdadero",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 698,
+    pregunta:
+      "Permiten reconocer cuando una historia de usuario está hecha/realizada/terminada:",
+    respuesta: "Pruebas de aceptacion",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 699,
+    pregunta:
+      "Dentro de la práctica de la ingeniería de software, la ejecución del plan se refiere a:",
+    respuesta: "Generación del código",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 700,
+    pregunta:
+      "Indique cuál de las siguientes afirmaciones relativas a las historias de usuario, es verdadera:",
+    respuesta:
+      "Expresan la funcionalidad que ha de contemplar el producto a desarrollar, desde el punto de vista del usuario.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 701,
+    pregunta: "En una historia de usuario:",
+    respuesta: "Es importante conocer quién la propone y qué debe hacer",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 702,
+    pregunta:
+      "Son parte de las historias de usuario y son consensuadas entre el cliente y el equipo de desarrollo:",
+    respuesta: "Pruebas de aceptación",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 703,
+    pregunta: "Las fases del desarrollo de software se componen de:",
+    respuesta: "Actividades",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 704,
+    pregunta:
+      "¿Cuál es el enfoque en el que se centran las metodologías tradicionales?",
+    respuesta: "Personas",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 705,
+    pregunta:
+      "¿Cuáles son las características que definen a la ingeniería de software y que completan el gráfico sobre la importancia de esta disciplina?",
+    respuesta: "Sistemático, disciplinado y cuantificable.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 706,
+    pregunta:
+      "Usted y su equipo de desarrollo han sido delegados para trabajar en una base de datos para un banco importante de la ciudad. A su cliente le preocupa mucho la seguridad, usted y su equipo saben de muchas características que podrían discutir. ¿En qué fase del proceso del ciclo de vida del software ocurriría está tarea?",
+    respuesta: "Especificación",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 707,
+    pregunta:
+      "¿El desarrollo de software es un proceso largo y que puede sufrir muchos cambios?",
+    respuesta: "Verdadero",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 708,
+    pregunta:
+      "Hacer software es complejo, por eso ¿es importante la ingeniería de software para resolverlo de una manera sistemática?",
+    respuesta: "Verdadero",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 709,
+    pregunta: "En RUP, ¿cuáles son los resultados tangibles del proyecto?",
+    respuesta: "Los Artefactos",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 710,
+    pregunta: `¿El término de "desarrollo ágil" se introdujo por primera vez en?`,
+    respuesta: "Manifesto ágil ",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 711,
+    pregunta: "¿Cuál de las siguientes afirmaciones NO es correcta?",
+    respuesta:
+      "Una historia de usuario se centra en describir quién la propone, qué tiene que hacer y cómo se la hace.",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+  {
+    id: 712,
+    pregunta: `En la actualidad es posible llegar al siguiente argumento: "solo es necesario saber programar para crear un producto software, no se necesita de la ingeniería de software o de los procesos de ésta`,
+    respuesta: "Falso",
+    materia: "MetodologiasD",
+    bimestre: "Primero",
+  },
+
   {
     id: "",
     pregunta: "",
