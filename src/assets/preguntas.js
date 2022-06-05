@@ -6517,6 +6517,360 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
+    id: 876,
+    pregunta:
+      "¿Cuál de las siguientes afirmaciones es la más acertada respecto a la definición de la calidad y su evolución?",
+    respuesta: "Ha evolucionado en el tiempo y en su alcance.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 877,
+    pregunta: "La gestión de calidad tiene como propósito hacer coincidir.",
+    respuesta: "La calidad programada, necesaria y la conseguida.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 878,
+    pregunta: "En el contexto de calidad, la conformidad se concibe como:",
+    respuesta: "La aceptación del producto o servicio.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 879,
+    pregunta: "Los modelos o normas de calidad son fundamentales para:",
+    respuesta: "Tener una aproximación más real a la calidad.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 880,
+    pregunta: "El ciclo se denomina PDCA es acrónimo de:",
+    respuesta: "Planificar, hacer, verificar y actuar.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 881,
+    pregunta:
+      "Cuatro de los 7 principios considerados por la norma ISO 9000, son:",
+    respuesta:
+      "Enfoque al cliente, liderazgo, compromiso de las personas, enfoque a procesos",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 882,
+    pregunta: "La norma ISO 9001 proporciona:",
+    respuesta: "Los requisitos para un Sistemas de gestión de calidad.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 883,
+    pregunta:
+      "La metodología DMAIC propuesta en seis sigmas, abarca las siguientes fases:",
+    respuesta: "Definir, medir, analizar, implementar y controlar",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 884,
+    pregunta:
+      "La relación entre la calidad de los Sistemas de información (SI) y la calidad de la organización se podría resumir:",
+    respuesta:
+      "La calidad de los SI es una parte de la calidad de la organización.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 885,
+    pregunta:
+      "Los factores que influyen directamente en la calidad de los sistemas de información (SI) son:",
+    respuesta: "LLa calidad de las personas y la calidad de los proyectos.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 886,
+    pregunta:
+      "Dos de los factores que son parte de la calidad de los sistemas de información (SI):",
+    respuesta:
+      "La calidad del software y la calidad de los sistemas informáticos.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 887,
+    pregunta:
+      "La gestión del conocimiento es relevante en el contexto de los proyectos software dado que",
+    respuesta:
+      "Los procesos de desarrollo y mantenimiento de software dependen, en gran medida de las personas y, por tanto, de su conocimiento.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 888,
+    pregunta:
+      "Una arquitectura de gestión del conocimiento para proyectos software proporciona",
+    respuesta:
+      "Un nexo desde las actividades de producción diarias, hasta las iniciativas de mejora y objetivos de negocio.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 889,
+    pregunta: "La PDU de la capa de red es:",
+    respuesta: "Paquetes",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 890,
+    pregunta:
+      "Que campo del datagrama IP evita que los paquetes permanezcan viajando sin fin",
+    respuesta: " TTL",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 891,
+    pregunta:
+      "La red 172.16.0.0/16 ha sido dividida con una máscara de subred 255.255.255.192 para todas las subredes. ¿Cuántos hosts posibles hay en cada subred?",
+    respuesta: "62 hosts ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 892,
+    pregunta:
+      "Contesta V o F: El control donde cada router ejecuta un protocolo de enrutamiento se denomina control por router",
+    respuesta: " Verdadero",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 893,
+    pregunta: "En el protocolo RIP la ruta escogida es la:",
+    respuesta: " Ruta con menor número de saltos",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 894,
+    pregunta:
+      "Si Ud. Debe conectar dos switches mediante fibra óptica debe usar los puertos:",
+    respuesta: " Módulos SFP",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 894,
+    pregunta:
+      "¿Cuál de las siguientes direcciones IPv4 es una dirección de red?",
+    respuesta: "192.168.11.0/24 ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 895,
+    pregunta: "En VLSM todas las subredes tienen el mismo número de hosts",
+    respuesta: " Falso",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 896,
+    pregunta:
+      "Si llega un paquete al router que tiene la tabla de ruteo de la imagen con la dirección de destino 180.172.12.0/24. ¿A qué dirección IP se van a enviar los paquetes esa red? ",
+    respuesta: "209.165.201.1 ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 897,
+    pregunta: "El algoritmo vector distancia es iterativo ya que los nodos:",
+    respuesta: "Comparten información hasta que no haya más información. ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 898,
+    pregunta:
+      "Si se usa VLSM para dividir la red 192.168.1.0/24. ¿Cuál es la máscara de la subred si se requieren conectar 100 hosts",
+    respuesta: "255.255.255.128 ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 899,
+    pregunta:
+      "Conteste Verdadero o Falso: La función del reenvió se implementa en el plano de control",
+    respuesta: "Falso ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 900,
+    pregunta:
+      "Se debe configurar una red de router basado en IPV6, que protocolo de enrutamiento debe utilizar:",
+    respuesta: " OSPFv3",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 901,
+    pregunta: "Un router es un dispositivo de:",
+    respuesta: "Capa 3 ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 902,
+    pregunta:
+      "¿Cuál de las siguientes direcciones IPv4 es una dirección privada",
+    respuesta: "172.16.10.3/24 ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 903,
+    pregunta: "La longitud total del encabezado del paquete IPv6 es: ",
+    respuesta: "40 bytes ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 904,
+    pregunta:
+      "Si se ha dividido la red 172.16.0.0 usando una máscara de 255.255.240.0.¿Cuál es la dirección de la 2da subred?",
+    respuesta: " 172.16.16.0",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 905,
+    pregunta:
+      "Si se ha dividido la red 172.16.0.0/16 usando una máscara de 255.255.240.0. ¿Cuál es la dirección de broadcast de la 2da subred?",
+    respuesta: " 172.16.31.255",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 906,
+    pregunta:
+      "Si se ha dividido la red 172.16.0.0 usando una máscara de 255.255.240.0.¿Cuál es la dirección de la 2da subred?",
+    respuesta: "172.16.16.0 ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 907,
+    pregunta:
+      "Si se ha dividido la red 172.16.0.0 usando una máscara de 255.255.240.0.¿Cuál es la dirección de la 3ra subred? ",
+    respuesta: "172.16.32.0 ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 908,
+    pregunta:
+      "Si se ha dividido la red 172.16.0.0/16 usando una máscara de 255.255.240.0.¿Cuál es la dirección de broadcast de la 4ta subred?",
+    respuesta: " 172.16.48.255",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 909,
+    pregunta:
+      "Qué le sucede a un paquete cuya red de destino no se encuentra en la tabla de ruteo y en el router no está configurada una ruta predeterminada?",
+    respuesta: " Se descarta el paquete",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 910,
+    pregunta:
+      " Si usted debe configurar una red de routers de una empresa que tiene 150 sucursales, que protocolo debería usar ",
+    respuesta: " OSPF ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 911,
+    pregunta:
+      "Conteste verdadero o falso: Una dirección IPv6 link-local puede ser enrutada hacia internet",
+    respuesta: "Falso ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 912,
+    pregunta:
+      "Si se usa VLSM para dividir la red 192.168.1.0/24. ¿Cuál es la máscara de la subred si se requieren conectar 7 hosts?",
+    respuesta: "255.255.255.240",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 913,
+    pregunta:
+      "Conteste verdadero o falso: El control lógicamente centralizado permite reducir la latencia y carga del procesamiento de paquetes ",
+    respuesta: " Verdadero",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 914,
+    pregunta:
+      " Si se utiliza el protocolo RIP ¿Cuál sería la ruta escogida por el router R0 para llegar al PC5?",
+
+    respuesta: " R0-R1-PC5 ",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 915,
+    pregunta:
+      "Un paquete sale de PC-1 a PC-4. ¿Cuántos saltos tendrá la ruta hacia PC-4 elegida por RTR1",
+    respuesta: " 3",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 916,
+    pregunta:
+      "Si la red OSPF tiene todas las bases de datos convergentes. OSPF está en un estado",
+    respuesta: " Completo",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+  {
+    id: 917,
+    pregunta:
+      " ¿Cuál de las siguientes direcciones IPv4 es una dirección de broadcast? ",
+    respuesta: " 173.168.12.255/24",
+    materia: "RedesII",
+    bimestre: "Primero",
+  },
+
+  {
+    id: 918,
+    pregunta:
+      "Conteste verdadero o falso: El enrutamiento se realiza en una escala de tiempo de nanosegundos",
+    respuesta: "Falso",
+    materia: " RedesII ",
+    bimestre: "Primero",
+  },
+  {
     id: 864,
     pregunta: "",
     respuesta: "",
