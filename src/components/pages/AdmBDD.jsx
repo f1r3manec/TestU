@@ -1,8 +1,7 @@
-import React, { memo } from "react";
 import usePreguntas from "../hooks/usePreguntas";
 import PreguntasForm from "../ui/PreguntasForm";
 
-export const AdmBDD = memo(() => {
+export const AdmBDD = () => {
   const [
     handleInputValueSearch,
     listaPreguntas,
@@ -22,4 +21,4 @@ export const AdmBDD = memo(() => {
       )}
     </>
   );
-});
+};

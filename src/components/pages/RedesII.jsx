@@ -3,7 +3,7 @@ import React, { memo } from "react";
 import usePreguntas from "../hooks/usePreguntas";
 import PreguntasForm from "../ui/PreguntasForm";
 
-const RedesII = memo(() => {
+const RedesII = () => {
   const [
     handleInputValueSearch,
     listaPreguntas,
@@ -23,6 +23,6 @@ const RedesII = memo(() => {
       )}
     </>
   );
-});
+};
 
 export default RedesII;

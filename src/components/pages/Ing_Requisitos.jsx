@@ -1,8 +1,7 @@
-import { memo } from "react";
 import usePreguntas from "../hooks/usePreguntas";
 import PreguntasForm from "../ui/PreguntasForm";
 
-const Ing_Requisitos = memo(() => {
+const Ing_Requisitos = () => {
   const [
     handleInputValueSearch,
     listaPreguntas,
@@ -22,6 +21,6 @@ const Ing_Requisitos = memo(() => {
       )}
     </>
   );
-});
+};
 
 export default Ing_Requisitos;

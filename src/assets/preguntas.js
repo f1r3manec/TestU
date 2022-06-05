@@ -6190,10 +6190,9 @@ export const preguntasMaterias = [
   },
   {
     id: 808,
-    pregunta:
-      "El aseguramiento de calidad según la norma ISO 9000, se define como:",
+    pregunta: "Un 'requisito' según la norma ISO 9000, se define como:",
     respuesta:
-      "Parte de la gestión de la calidad orientada a proporcionar confianza en que se cumplirán los requisitos de calidad.",
+      "Necesidad o expectativa establecida, generalmente implícita u obligatoria",
     materia: "GestionCalidad",
     bimestre: "Primero",
   },
@@ -6264,7 +6263,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 846,
+    id: 920,
     pregunta: "Dos de los principios en los que se basa Lean, son:",
     respuesta: "Calidad perfecta a la primera y minimización del despilfarro.",
     materia: "GestionCalidad",
@@ -6329,7 +6328,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 852,
+    id: 921,
     pregunta:
       "Los procesos de planificación de un proyecto, en PMBOK estan relacionados con:",
     respuesta:
@@ -6338,7 +6337,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 853,
+    id: 922,
     pregunta: "Las siglas TQM son acrónimo de:",
     respuesta: "Gestión de Calidad Tota",
     materia: "GestionCalidad",
@@ -6667,7 +6666,7 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 894,
+    id: 919,
     pregunta:
       "¿Cuál de las siguientes direcciones IPv4 es una dirección de red?",
     respuesta: "192.168.11.0/24 ",
@@ -6871,7 +6870,104 @@ export const preguntasMaterias = [
     bimestre: "Primero",
   },
   {
-    id: 864,
+    id: 923,
+    pregunta:
+      "La herramienta DPMTool (Distributed Process Management Tool) para gestión del conocimiento en ingeniería de software esta orientada a:",
+    respuesta:
+      "Desarrollo global permite la creación, almacenamiento, recuperación, transmisión y reutilización de conocimiento para la toma de decisione",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 924,
+    pregunta:
+      "La gestión de proyectos el PMBOK define 49 procesos organizados en",
+    respuesta: "5 grupos de procesos.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 925,
+    pregunta: "Para el modelo SEKS el proceso inicia con:",
+    respuesta: "El deseo o una oportunidad de aprender.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 926,
+    pregunta: "La dimensión temporal de un proyecto hace referencia a:",
+    respuesta: "Definir, medir, analizar, implementar y controlar.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 927,
+    pregunta:
+      "La mejora de la calidad según la norma ISO 9000, se define como:",
+    respuesta:
+      "Parte de la gestión de la calidad orientada a aumentar la capacidad de cumplir con los requisitos de la calidad.",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 928,
+    pregunta:
+      "Dos de los apartados a incluir dentro de las actividades, resultados y tareas del plan de SQA son:",
+    respuesta: "Aseguramiento del proceso y aseguramiento del proceso",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 929,
+    pregunta: "El estandar IEEE 730 proporciona:",
+    respuesta:
+      "Los requisitos mínimos aceptables para la preparación y el contenido de los planes de aseguramiento de calidad del software SQAP",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 930,
+    pregunta:
+      "la herramienta REACT (Rat1onalE Annotations in ChaT messages) para gestión del conodm;ento en ingeniería de software esta onentada a.",
+    respuesta:
+      "Apoyar a los desarrolladores a capturar, cuestionar alternativas, argumentos a favor, en contra y decisiones a partir de los mensajes de chal",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 931,
+    pregunta:
+      "la familia de normas ISO 9000 para la calidad, está conformada por:",
+    respuesta: "ISO 9000, ISO 9001 e ISO 9004",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 932,
+    pregunta:
+      "Tres de los pnnop10s básicos para la excelencia sostenida según EFQM, son:",
+    respuesta:
+      "Conceptos de excelencia, modelo EFQM de excelencia y esquema REDER",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 933,
+    pregunta: "además de la gestión calidad de calidad definida en PMBOK es",
+    respuesta: "Una de las areas de conocimiento para la gestión de proyectos",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+  {
+    id: 934,
+    pregunta: "El termíno  'defecto' para la norma ISO 9000 se refiere a:",
+    respuesta: "No conformidad relativa a un uso previsto o especificado",
+    materia: "GestionCalidad",
+    bimestre: "Primero",
+  },
+
+  {
+    id: "",
     pregunta: "",
     respuesta: "",
     materia: "",

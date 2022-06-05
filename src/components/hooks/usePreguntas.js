@@ -8,11 +8,15 @@ const usePreguntas = (materia) => {
   const initialState = preguntasMaterias.filter(
     (pregunta) => pregunta.materia === materia
   );
+
   const [listaPreguntas, setListaPreguntas] = useState(initialState);
 
   const handleInputSearch = (e) => {
     setHandleInputValueSearch(e.target.value);
     setListaPreguntas(buscarElementos(materia, e.target.value));
+    if (e.target.value.length === 0) {
+      setListaPreguntas(initialState);
+    }
   };
 
   return [handleInputValueSearch, listaPreguntas, handleInputSearch];

@@ -1,8 +1,7 @@
-import { memo } from "react";
 import usePreguntas from "../hooks/usePreguntas";
 import PreguntasForm from "../ui/PreguntasForm";
 
-const HCI = memo(() => {
+const HCI = () => {
   const [
     handleInputValueSearch,
     listaPreguntas,
@@ -22,6 +21,6 @@ const HCI = memo(() => {
       )}
     </>
   );
-});
+};
 
 export default HCI;

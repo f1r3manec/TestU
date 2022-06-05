@@ -1,7 +1,6 @@
-import { memo } from "react";
 import usePreguntas from "../hooks/usePreguntas";
 import PreguntasForm from "../ui/PreguntasForm";
-const FundamentosIngenieria = memo(() => {
+const FundamentosIngenieria = () => {
   const [
     handleInputValueSearch,
     listaPreguntas,
@@ -21,6 +20,6 @@ const FundamentosIngenieria = memo(() => {
       )}
     </>
   );
-});
+};
 
 export default FundamentosIngenieria;

@@ -1,7 +1,7 @@
 import usePreguntas from "../hooks/usePreguntas";
 import PreguntasForm from "../ui/PreguntasForm";
-import { memo } from "react";
-const MetodologiasD = memo(() => {
+
+const MetodologiasD = () => {
   const [
     handleInputValueSearch,
     listaPreguntas,
@@ -21,6 +21,6 @@ const MetodologiasD = memo(() => {
       )}
     </>
   );
-});
+};
 
 export default MetodologiasD;
