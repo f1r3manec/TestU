@@ -1,8 +1,8 @@
-import React, { memo } from "react";
+import React from "react";
 import usePreguntas from "../hooks/usePreguntas";
 import PreguntasForm from "../ui/PreguntasForm";
 
-export const PlanificacionEst = memo(() => {
+export const PlanificacionEst = () => {
   const [
     handleInputValueSearch,
     listaPreguntas,
@@ -22,4 +22,4 @@ export const PlanificacionEst = memo(() => {
       )}
     </>
   );
-});
+};
